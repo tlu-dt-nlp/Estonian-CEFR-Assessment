@@ -1,0 +1,722 @@
+﻿file_name,exam_year,level,total_score,total_score_prop,writing_score,writing_score_prop,age,gender,education,citizenship,municipality
+A2_2018I_001-014,2018,A2,54,0.6750,13,0.65,59,F,secondary specialized/vocational,Russia,Tallinn
+A2_2018I_001-015,2018,A2,72,0.9000,18,0.90,25,F,higher,Greece,Tallinn
+A2_2018I_001-023,2018,A2,48,0.6000,12,0.60,27,F,higher,Russia,Maardu town
+A2_2018I_001-025,2018,A2,68,0.8500,16,0.80,30,M,higher,PRC,Tallinn
+A2_2018I_001-027,2018,A2,68,0.8500,20,1.00,33,F,higher,Ukraine,Tallinn
+A2_2018I_001-032,2018,A2,65,0.8125,17,0.85,50,M,higher,Russia,Tallinn
+A2_2018I_001-034,2018,A2,76,0.9500,20,1.00,33,F,secondary,Estonia,Tallinn
+A2_2018I_001-042,2018,A2,69,0.8625,15,0.75,55,F,secondary,undefined,Kiili parish
+A2_2018I_001-046,2018,A2,71,0.8875,19,0.95,35,F,higher,Macedonia,Tallinn
+A2_2018I_001-053,2018,A2,71,0.8875,15,0.75,30,F,secondary,Russia,Tallinn
+A2_2018I_001-058,2018,A2,60,0.7500,13,0.65,48,F,secondary specialized/vocational,undefined,Maardu town
+A2_2018I_001-065,2018,A2,78,0.9750,20,1.00,59,M,higher,Finland,Tallinn
+A2_2018I_001-071,2018,A2,68,0.8500,15,0.75,27,M,higher,Estonia,Tallinn
+A2_2018I_001-093,2018,A2,78,0.9750,19,0.95,31,F,higher,Russia,Tallinn
+A2_2018I_001-094,2018,A2,60,0.7500,16,0.80,32,F,higher,Estonia,Tallinn
+A2_2018I_001-112,2018,A2,61,0.7625,17,0.85,57,M,higher,Russia,Tallinn
+A2_2018I_001-115,2018,A2,61,0.7625,17,0.85,26,M,higher,Egypt,Tallinn
+A2_2018I_001-116,2018,A2,56,0.7000,17,0.85,50,F,higher,Russia,Tallinn
+A2_2018I_001-122,2018,A2,68,0.8500,19,0.95,45,F,higher,Lithuania,Rae parish
+A2_2018I_002-014,2018,A2,72,0.9000,18,0.90,14,F,,Estonia,Kohtla-Järve town
+A2_2018I_002-025,2018,A2,59,0.7375,17,0.85,34,F,higher,Estonia,Kohtla-Järve town
+A2_2018I_003-003,2018,A2,69,0.8625,13,0.65,14,M,primary/basic,Estonia,Narva town
+A2_2018I_003-006,2018,A2,60,0.7500,13,0.65,14,F,primary/basic,Russia,Narva-Jõesuu town
+A2_2018I_003-009,2018,A2,65,0.8125,16,0.80,15,F,primary/basic,Estonia,Narva-Jõesuu town
+A2_2018I_003-011,2018,A2,49,0.6125,18,0.90,48,F,secondary specialized/vocational,Russia,Sillamäe town
+A2_2018I_003-022,2018,A2,48,0.6000,13,0.65,51,F,secondary,Russia,Narva town
+A2_2018I_003-038,2018,A2,73,0.9125,17,0.85,58,F,higher,Estonia,Narva town
+A2_2018I_003-040,2018,A2,56,0.7000,13,0.65,56,F,higher,undefined,Narva town
+A2_2018I_003-053,2018,A2,75,0.9375,17,0.85,44,M,secondary specialized/vocational,Russia,Narva town
+A2_2018I_004-005,2018,A2,74,0.9250,18,0.90,20,F,primary/basic,Estonia,Valga parish
+A2_2018II_001-010,2018,A2,71,0.8875,17,0.85,48,F,secondary specialized/vocational,Estonia,Jõhvi parish
+A2_2018II_001-025,2018,A2,62,0.7750,16,0.80,53,F,higher,Estonia,Kohtla-Järve town
+A2_2018II_001-039,2018,A2,67,0.8375,14,0.70,23,F,higher,Belarus,Kohtla-Järve town
+A2_2018II_002-026,2018,A2,64,0.8000,19,0.95,34,F,secondary,Estonia,Narva town
+A2_2018II_002-042,2018,A2,65,0.8125,18,0.90,35,F,secondary,Russia,Sillamäe town
+A2_2018II_002-066,2018,A2,54,0.6750,15,0.75,48,F,secondary specialized/vocational,Ukraine,Sillamäe town
+A2_2018II_002-076,2018,A2,76,0.9500,20,1.00,13,F,primary/basic,Estonia,Narva town
+A2_2018II_002-089,2018,A2,57,0.7125,15,0.75,26,F,higher,Ukraine,Narva town
+A2_2018II_002-105,2018,A2,57,0.7125,18,0.90,39,F,secondary specialized/vocational,Estonia,Narva town
+A2_2018II_002-126,2018,A2,64,0.8000,14,0.70,13,F,primary/basic,Estonia,Narva town
+A2_2018II_002-134,2018,A2,76,0.9500,20,1.00,14,F,primary/basic,Estonia,Narva town
+A2_2018II_003-019,2018,A2,61,0.7625,16,0.80,39,F,higher,Russia,Tartu town
+A2_2018II_003-022,2018,A2,67,0.8375,18,0.90,50,F,secondary,Estonia,Valga parish
+A2_2018II_004-050,2018,A2,67,0.8375,18,0.90,35,F,,USA,Tallinn
+A2_2018II_004-051,2018,A2,67,0.8375,16,0.80,24,M,higher,USA,Tallinn
+A2_2018II_004-062,2018,A2,79,0.9875,20,1.00,38,F,higher,Finland,Tallinn
+A2_2018II_004-077,2018,A2,62,0.7750,18,0.90,25,F,higher,Romania,Tallinn
+A2_2018II_004-087,2018,A2,63,0.7875,18,0.90,25,F,higher,Spain,Viimsi parish
+A2_2018II_004-093,2018,A2,60,0.7500,14,0.70,59,F,secondary specialized/vocational,Estonia,Tallinn
+A2_2018II_004-094,2018,A2,74,0.9250,18,0.90,46,M,higher,Estonia,Tallinn
+A2_2018II_004-101,2018,A2,73,0.9125,17,0.85,33,F,higher,Estonia,Tallinn
+A2_2018II_004-105,2018,A2,61,0.7625,18,0.90,61,F,secondary specialized/vocational,Estonia,Tallinn
+A2_2018II_004-111,2018,A2,70,0.8750,17,0.85,26,F,higher,Russia,Tallinn
+A2_2018II_004-118,2018,A2,61,0.7625,13,0.65,34,M,higher,Russia,Tallinn
+A2_2018II_004-136,2018,A2,63,0.7875,14,0.70,20,M,secondary,Latvia,Tallinn
+A2_2018II_004-138,2018,A2,77,0.9625,20,1.00,42,F,higher,Finland,Tallinn
+A2_2018II_004-139,2018,A2,68,0.8500,18,0.90,21,F,higher,Ukraine,Tallinn
+A2_2018II_004-142,2018,A2,70,0.8750,16,0.80,55,F,,Finland,Tallinn
+A2_2018II_004-148,2018,A2,67,0.8375,17,0.85,31,F,secondary,Russia,Tallinn
+A2_2018II_004-158,2018,A2,74,0.9250,18,0.90,32,M,higher,Romania,Tallinn
+A2_2018III_001-006,2018,A2,63,0.7875,14,0.70,41,M,secondary specialized/vocational,Estonia,Mustvee parish
+A2_2018III_001-007,2018,A2,57,0.7125,13,0.65,38,F,higher,Russia,Kohtla-Järve town
+A2_2018III_001-030,2018,A2,67,0.8375,20,1.00,42,F,secondary specialized/vocational,Estonia,Kohtla-Järve town
+A2_2018III_002-011,2018,A2,65,0.8125,17,0.85,51,F,secondary specialized/vocational,Russia,Narva town
+A2_2018III_002-012,2018,A2,58,0.7250,15,0.75,15,F,primary/basic,Estonia,Narva town
+A2_2018III_002-015,2018,A2,66,0.8250,17,0.85,45,F,higher,Russia,Narva town
+A2_2018III_002-032,2018,A2,62,0.7750,15,0.75,44,F,secondary specialized/vocational,Estonia,Narva-Jõesuu town
+A2_2018III_002-033,2018,A2,52,0.6500,13,0.65,39,F,secondary,Russia,Narva town
+A2_2018III_003-002,2018,A2,48,0.6000,12,0.60,35,F,higher,Russia,Tallinn
+A2_2018III_003-006,2018,A2,64,0.8000,18,0.90,29,F,higher,Ukraine,Tallinn
+A2_2018III_003-007,2018,A2,66,0.8250,14,0.70,36,F,higher,Ukraine,Tallinn
+A2_2018III_003-012,2018,A2,72,0.9000,18,0.90,39,M,higher,India,Tallinn
+A2_2018III_003-025,2018,A2,63,0.7875,16,0.80,21,F,secondary,Russia,Tallinn
+A2_2018III_003-029,2018,A2,53,0.6625,13,0.65,54,F,secondary specialized/vocational,Russia,Maardu town
+A2_2018III_003-031,2018,A2,51,0.6375,12,0.60,25,F,higher,Russia,Tallinn
+A2_2018III_003-041,2018,A2,66,0.8250,17,0.85,42,M,higher,Netherlands,Anija parish
+A2_2018III_003-042,2018,A2,73,0.9125,18,0.90,28,F,higher,Russia,Tallinn
+A2_2018III_003-046,2018,A2,62,0.7750,12,0.60,55,F,secondary specialized/vocational,undefined,
+A2_2018III_003-054,2018,A2,66,0.8250,17,0.85,25,F,secondary specialized/vocational,Estonia,Maardu town
+A2_2018III_003-058,2018,A2,51,0.6375,13,0.65,34,M,higher,India,Tallinn
+A2_2018III_003-063,2018,A2,55,0.6875,13,0.65,36,F,higher,Russia,Tallinn
+A2_2018III_003-065,2018,A2,49,0.6125,12,0.60,41,F,secondary,undefined,Tallinn
+A2_2018III_003-066,2018,A2,54,0.6750,14,0.70,46,F,secondary specialized/vocational,Estonia,Tallinn
+A2_2018III_003-083,2018,A2,73,0.9125,19,0.95,27,F,secondary,Latvia,Tallinn
+A2_2018III_003-085,2018,A2,62,0.7750,13,0.65,30,F,higher,Russia,Tallinn
+A2_2018III_003-087,2018,A2,64,0.8000,13,0.65,47,F,secondary specialized/vocational,Estonia,Maardu town
+A2_2018III_003-100,2018,A2,57,0.7125,13,0.65,31,F,secondary specialized/vocational,Estonia,Tallinn
+A2_2018III_003-101,2018,A2,67,0.8375,18,0.90,52,F,higher,Russia,Tallinn
+A2_2018III_003-103,2018,A2,76,0.9500,20,1.00,47,F,higher,Estonia,Tallinn
+A2_2018III_003-110,2018,A2,71,0.8875,19,0.95,47,F,secondary,undefined,Tallinn
+A2_2018IV_001-003,2018,A2,69,0.8625,17,0.85,15,F,primary/basic,Estonia,Kohtla-Järve town
+A2_2018IV_002-007,2018,A2,48,0.6000,15,0.75,22,M,secondary specialized/vocational,Russia,Narva town
+A2_2018IV_002-011,2018,A2,77,0.9625,19,0.95,38,M,higher,Russia,Sillamäe town
+A2_2018IV_002-015,2018,A2,49,0.6125,13,0.65,53,M,secondary specialized/vocational,Estonia,Narva town
+A2_2018IV_002-021,2018,A2,52,0.6500,15,0.75,36,F,higher,Russia,Narva town
+A2_2018IV_003-002,2018,A2,67,0.8375,15,0.75,37,F,higher,Russia,Tallinn
+A2_2018IV_003-004,2018,A2,60,0.7500,16,0.80,41,M,higher,Egypt,Tallinn
+A2_2018IV_003-006,2018,A2,65,0.8125,17,0.85,37,F,higher,Ukraine,Tallinn
+A2_2018IV_003-010,2018,A2,52,0.6500,18,0.90,41,F,higher,Russia,Tallinn
+A2_2018IV_003-014,2018,A2,56,0.7000,17,0.85,47,F,secondary specialized/vocational,Russia,Tallinn
+A2_2018IV_003-029,2018,A2,56,0.7000,18,0.90,53,F,secondary specialized/vocational,undefined,Maardu town
+A2_2018IV_003-031,2018,A2,54,0.6750,14,0.70,43,M,higher,Russia,Tallinn
+A2_2018IV_003-050,2018,A2,58,0.7250,18,0.90,52,F,secondary specialized/vocational,undefined,Tallinn
+A2_2018IV_003-053,2018,A2,80,1.0000,20,1.00,24,F,higher,Ukraine,Tallinn
+A2_2018IV_003-057,2018,A2,67,0.8375,17,0.85,59,F,higher,Russia,Viimsi parish
+A2_2018IV_003-058,2018,A2,55,0.6875,13,0.65,32,F,secondary specialized/vocational,Belarus,Tallinn
+A2_2018IV_003-066,2018,A2,63,0.7875,16,0.80,49,F,secondary specialized/vocational,Estonia,Tallinn
+A2_2018IV_003-073,2018,A2,74,0.9250,19,0.95,38,F,higher,Ukraine,Tallinn
+A2_2018IV_003-076,2018,A2,75,0.9375,20,1.00,29,F,higher,Ukraine,Tallinn
+A2_2018IV_003-080,2018,A2,49,0.6125,13,0.65,55,F,higher,undefined,Tallinn
+A2_2018IV_003-082,2018,A2,75,0.9375,20,1.00,63,M,higher,Russia,Tallinn
+A2_2018IV_003-085,2018,A2,75,0.9375,19,0.95,43,F,higher,Russia,Tallinn
+A2_2018IV_003-086,2018,A2,73,0.9125,17,0.85,31,F,higher,Belarus,Tallinn
+A2_2018IV_003-088,2018,A2,52,0.6500,19,0.95,26,F,higher,Belarus,Tallinn
+A2_2018IV_003-089,2018,A2,48,0.6000,13,0.65,46,F,secondary specialized/vocational,Russia,Tallinn
+A2_2018IV_003-091,2018,A2,72,0.9000,17,0.85,25,F,higher,Poland,Tallinn
+A2_2018IV_003-092,2018,A2,63,0.7875,17,0.85,30,M,higher,UK,Tallinn
+A2_2018IV_004-002,2018,A2,66,0.8250,19,0.95,30,M,secondary,Brazil,Tartu town
+A2_2018IV_004-003,2018,A2,73,0.9125,16,0.80,24,F,higher,Ukraine,Tartu town
+A2_2018IV_004-005,2018,A2,54,0.6750,15,0.75,52,M,higher,Russia,Tartu town
+B1_2018I_001-011,2018,B1,86,0.8600,22,0.88,15,F,primary/basic,Russia,Tallinn
+B1_2018I_001-040,2018,B1,89,0.8900,18,0.72,37,F,secondary specialized/vocational,undefined,Tallinn
+B1_2018I_001-049,2018,B1,84,0.8400,18,0.72,44,F,secondary specialized/vocational,undefined,Tallinn
+B1_2018I_001-062,2018,B1,77,0.7700,20,0.80,26,F,higher,Russia,Tallinn
+B1_2018I_001-069,2018,B1,90,0.9000,20,0.80,31,M,secondary specialized/vocational,undefined,Tallinn
+B1_2018I_001-109,2018,B1,72,0.7200,15,0.60,43,F,higher,Ukraine,Tallinn
+B1_2018I_001-171,2018,B1,85,0.8500,21,0.84,27,F,primary/basic,undefined,Maardu town
+B1_2018I_001-196,2018,B1,77,0.7700,16,0.64,16,F,primary/basic,Estonia,Tallinn
+B1_2018I_001-214,2018,B1,69,0.6900,16,0.64,47,M,higher,Russia,Tallinn
+B1_2018I_001-216,2018,B1,80,0.8000,17,0.68,65,F,higher,Russia,Tallinn
+B1_2018I_001-222,2018,B1,86,0.8600,20,0.80,23,F,secondary specialized/vocational,Ukraine,Tallinn
+B1_2018I_002-009,2018,B1,71,0.7100,16,0.64,36,F,higher,undefined,Kohtla-Järve town
+B1_2018I_002-050,2018,B1,88,0.8800,21,0.84,58,F,secondary specialized/vocational,Estonia,Kohtla-Järve town
+B1_2018I_002-056,2018,B1,87,0.8700,21,0.84,14,F,primary/basic,Estonia,Kohtla-Järve town
+B1_2018I_002-083,2018,B1,91,0.9100,21,0.84,28,F,secondary specialized/vocational,Estonia,Jõhvi parish
+B1_2018I_002-086,2018,B1,85,0.8500,20,0.80,15,F,primary/basic,Estonia,Jõhvi parish
+B1_2018I_003-002,2018,B1,90,0.9000,17,0.68,14,F,,Estonia,Narva town
+B1_2018I_003-007,2018,B1,84,0.8400,18,0.72,14,F,primary/basic,Estonia,Narva-Jõesuu town
+B1_2018I_003-027,2018,B1,98,0.9800,24,0.96,14,F,primary/basic,Estonia,Narva town
+B1_2018I_003-030,2018,B1,92,0.9200,24,0.96,14,F,primary/basic,Estonia,Narva town
+B1_2018I_003-038,2018,B1,88,0.8800,21,0.84,14,F,primary/basic,Estonia,Narva town
+B1_2018I_003-049,2018,B1,71,0.7100,18,0.72,15,F,primary/basic,Estonia,Sillamäe town
+B1_2018I_003-070,2018,B1,83,0.8300,18,0.72,15,M,primary/basic,Estonia,
+B1_2018I_003-080,2018,B1,73,0.7300,17,0.68,36,M,secondary specialized/vocational,Turkey,Narva town
+B1_2018I_003-083,2018,B1,85,0.8500,17,0.68,15,F,primary/basic,Estonia,Sillamäe town
+B1_2018I_003-100,2018,B1,74,0.7400,18,0.72,38,F,secondary specialized/vocational,Estonia,Narva town
+B1_2018I_003-107,2018,B1,71,0.7100,16,0.64,53,F,secondary specialized/vocational,Estonia,Narva town
+B1_2018I_003-119,2018,B1,83,0.8300,18,0.72,13,F,,Estonia,Narva town
+B1_2018I_004-006,2018,B1,99,0.9900,24,0.96,27,M,higher,undefined,Tartu town
+B1_2018I_004-014,2018,B1,88,0.8800,18,0.72,37,F,secondary specialized/vocational,Estonia,Tartu town
+B1_2018II_001-016,2018,B1,63,0.6300,18,0.72,60,F,higher,Estonia,Jõhvi parish
+B1_2018II_001-054,2018,B1,67,0.6700,15,0.60,44,M,secondary specialized/vocational,Estonia,Kohtla-Järve town
+B1_2018II_001-117,2018,B1,70,0.7000,16,0.64,14,F,primary/basic,Estonia,Kohtla-Järve town
+B1_2018II_001-126,2018,B1,87,0.8700,20,0.80,14,F,primary/basic,Estonia,Jõhvi parish
+B1_2018II_002-024,2018,B1,79,0.7900,20,0.80,35,M,higher,Russia,Narva town
+B1_2018II_002-038,2018,B1,64,0.6400,15,0.60,45,F,higher,Russia,Narva town
+B1_2018II_002-050,2018,B1,91,0.9100,20,0.80,14,F,primary/basic,Estonia,Narva town
+B1_2018II_002-072,2018,B1,66,0.6600,16,0.64,33,F,secondary specialized/vocational,Estonia,Narva town
+B1_2018II_002-076,2018,B1,72,0.7200,15,0.60,39,F,higher,Estonia,Narva town
+B1_2018II_002-136,2018,B1,92,0.9200,24,0.96,33,M,higher,Russia,Narva town
+B1_2018II_002-145,2018,B1,87,0.8700,21,0.84,43,F,higher,Estonia,Sillamäe town
+B1_2018II_002-158,2018,B1,89,0.8900,19,0.76,16,F,primary/basic,Russia,Narva town
+B1_2018II_003-081,2018,B1,83,0.8300,17,0.68,53,M,higher,Estonia,Tallinn
+B1_2018II_003-139,2018,B1,91,0.9100,25,1.00,56,F,secondary,Estonia,Maardu town
+B1_2018II_003-165,2018,B1,100,1.0000,25,1.00,13,M,primary/basic,Russia,Tallinn
+B1_2018II_003-233,2018,B1,69,0.6900,19,0.76,30,F,higher,Russia,Tallinn
+B1_2018II_003-262,2018,B1,97,0.9700,24,0.96,26,F,higher,Ukraine,Tallinn
+B1_2018II_003-267,2018,B1,70,0.7000,16,0.64,28,M,higher,Russia,Tallinn
+B1_2018II_003-270,2018,B1,74,0.7400,16,0.64,37,M,higher,Russia,Tallinn
+B1_2018II_003-299,2018,B1,73,0.7300,15,0.60,33,M,secondary,undefined,Tallinn
+B1_2018II_003-304,2018,B1,89,0.8900,24,0.96,31,M,secondary,Russia,Tallinn
+B1_2018II_003-313,2018,B1,85,0.8500,21,0.84,41,F,secondary specialized/vocational,undefined,Tallinn
+B1_2018II_003-319,2018,B1,83,0.8300,19,0.76,38,M,secondary,undefined,Tallinn
+B1_2018II_003-323,2018,B1,70,0.7000,18,0.72,47,F,secondary,Estonia,Tallinn
+B1_2018II_003-333,2018,B1,90,0.9000,23,0.92,50,M,secondary specialized/vocational,undefined,Tallinn
+B1_2018II_003-340,2018,B1,94,0.9400,23,0.92,26,F,,Russia,Tallinn
+B1_2018II_004-001,2018,B1,81,0.8100,21,0.84,27,F,secondary,Russia,Tartu town
+B1_2018II_004-004,2018,B1,81,0.8100,21,0.84,47,F,secondary,Estonia,Valga parish
+B1_2018II_004-029,2018,B1,96,0.9600,24,0.96,46,M,secondary specialized/vocational,Germany,Tartu town
+B1_2018II_004-030,2018,B1,89,0.8900,20,0.80,38,F,secondary,undefined,Tartu town
+B1_2018III_001-040,2018,B1,71,0.7100,18,0.72,60,F,secondary specialized/vocational,Estonia,Kohtla-Järve town
+B1_2018III_001-044,2018,B1,76,0.7600,16,0.64,57,F,secondary,undefined,Jõhvi parish
+B1_2018III_002-007,2018,B1,76,0.7600,19,0.76,40,F,higher,Russia,Narva town
+B1_2018III_002-017,2018,B1,89,0.8900,23,0.92,20,F,secondary specialized/vocational,Estonia,Narva town
+B1_2018III_002-018,2018,B1,84,0.8400,22,0.88,27,F,higher,undefined,Narva town
+B1_2018III_002-022,2018,B1,71,0.7100,19,0.76,40,M,higher,undefined,Narva town
+B1_2018III_002-023,2018,B1,84,0.8400,24,0.96,32,F,secondary specialized/vocational,Russia,Sillamäe town
+B1_2018III_002-025,2018,B1,66,0.6600,18,0.72,35,F,higher,undefined,Narva town
+B1_2018III_002-028,2018,B1,88,0.8800,23,0.92,32,F,higher,undefined,Narva town
+B1_2018III_003-036,2018,B1,77,0.7700,15,0.60,41,F,higher,Russia,Tallinn
+B1_2018III_003-040,2018,B1,78,0.7800,16,0.64,48,M,secondary,Estonia,Tallinn
+B1_2018III_003-041,2018,B1,94,0.9400,24,0.96,36,F,secondary specialized/vocational,undefined,Rakvere parish
+B1_2018III_003-045,2018,B1,65,0.6500,17,0.68,51,F,higher,Russia,Tallinn
+B1_2018III_003-047,2018,B1,87,0.8700,21,0.84,29,M,secondary,undefined,Tallinn
+B1_2018III_003-063,2018,B1,62,0.6200,16,0.64,37,F,higher,Ukraine,Tallinn
+B1_2018III_003-074,2018,B1,77,0.7700,17,0.68,30,F,secondary specialized/vocational,undefined,Tallinn
+B1_2018III_003-075,2018,B1,86,0.8600,22,0.88,22,F,secondary specialized/vocational,Russia,Tallinn
+B1_2018III_003-120,2018,B1,89,0.8900,20,0.80,28,M,higher,Russia,Tallinn
+B1_2018III_003-126,2018,B1,79,0.7900,19,0.76,30,F,higher,Russia,Tallinn
+B1_2018III_003-140,2018,B1,79,0.7900,19,0.76,55,F,secondary specialized/vocational,Estonia,Tallinn
+B1_2018III_003-141,2018,B1,82,0.8200,22,0.88,33,M,higher,Turkey,Tallinn
+B1_2018III_003-153,2018,B1,70,0.7000,21,0.84,24,F,higher,Russia,Tallinn
+B1_2018III_003-184,2018,B1,68,0.6800,16,0.64,30,F,higher,France,Tallinn
+B1_2018III_003-199,2018,B1,93,0.9300,21,0.84,37,M,higher,Ukraine,Tallinn
+B1_2018III_003-218,2018,B1,91,0.9100,18,0.72,27,F,higher,Ukraine,Tartu town
+B1_2018III_003-229,2018,B1,82,0.8200,18,0.72,37,F,higher,Russia,Kiili parish
+B1_2018III_003-230,2018,B1,88,0.8800,21,0.84,21,M,higher,Spain,Tallinn
+B1_2018III_003-247,2018,B1,65,0.6500,19,0.76,37,F,higher,Russia,Tallinn
+B1_2018III_011-003,2018,B1,90,0.9000,21,0.84,38,F,higher,Latvia,Pärnu town
+B1_2018III_011-005,2018,B1,83,0.8300,21,0.84,39,M,higher,Russia,Pärnu town
+B1_2018IV_001-003,2018,B1,86,0.8600,24,0.96,57,F,higher,undefined,Kohtla-Järve town
+B1_2018IV_001-022,2018,B1,61,0.6100,18,0.72,40,F,higher,Russia,Toila parish
+B1_2018IV_001-024,2018,B1,83,0.8300,21,0.84,16,F,primary/basic,Estonia,Kohtla-Järve town
+B1_2018IV_001-050,2018,B1,75,0.7500,19,0.76,37,F,secondary specialized/vocational,Estonia,Jõhvi parish
+B1_2018IV_001-053,2018,B1,78,0.7800,20,0.80,14,F,primary/basic,undefined,Kohtla-Järve town
+B1_2018IV_001-055,2018,B1,85,0.8500,21,0.84,15,M,primary/basic,undefined,Kohtla-Järve town
+B1_2018IV_001-072,2018,B1,68,0.6800,20,0.80,15,M,primary/basic,Estonia,Kohtla-Järve town
+B1_2018IV_001-080,2018,B1,97,0.9700,23,0.92,15,F,primary/basic,Estonia,Jõhvi parish
+B1_2018IV_001-088,2018,B1,99,0.9900,24,0.96,15,F,primary/basic,Estonia,Jõhvi parish
+B1_2018IV_002-013,2018,B1,68,0.6800,16,0.64,44,F,secondary specialized/vocational,Estonia,Sillamäe town
+B1_2018IV_002-019,2018,B1,71,0.7100,15,0.60,15,F,primary/basic,Estonia,Narva town
+B1_2018IV_002-032,2018,B1,81,0.8100,18,0.72,55,F,higher,Estonia,Narva town
+B1_2018IV_002-033,2018,B1,87,0.8700,17,0.68,42,F,secondary specialized/vocational,Estonia,Narva-Jõesuu town
+B1_2018IV_002-054,2018,B1,69,0.6900,16,0.64,28,F,secondary specialized/vocational,undefined,
+B1_2018IV_002-064,2018,B1,73,0.7300,19,0.76,59,F,higher,Estonia,Sillamäe town
+B1_2018IV_003-001,2018,B1,90,0.9000,19,0.76,43,F,secondary specialized/vocational,Estonia,Tallinn
+B1_2018IV_003-032,2018,B1,77,0.7700,19,0.76,52,F,higher,Estonia,Lääne-Harju parish
+B1_2018IV_003-055,2018,B1,92,0.9200,23,0.92,30,F,higher,Russia,Viimsi parish
+B1_2018IV_003-058,2018,B1,97,0.9700,23,0.92,37,M,higher,undefined,Tallinn
+B1_2018IV_003-069,2018,B1,74,0.7400,18,0.72,47,M,secondary,undefined,Tallinn
+B1_2018IV_003-070,2018,B1,83,0.8300,17,0.68,29,M,higher,undefined,Tallinn
+B1_2018IV_003-072,2018,B1,94,0.9400,24,0.96,44,M,higher,UK,Tallinn
+B1_2018IV_003-080,2018,B1,83,0.8300,18,0.72,30,F,higher,Latvia,Tallinn
+B1_2018IV_003-092,2018,B1,78,0.7800,16,0.64,30,F,higher,Ukraine,Tallinn
+B1_2018IV_003-107,2018,B1,68,0.6800,16,0.64,52,M,secondary specialized/vocational,undefined,Tallinn
+B1_2018IV_003-111,2018,B1,86,0.8600,18,0.72,27,M,secondary,undefined,Viimsi parish
+B1_2018IV_003-118,2018,B1,88,0.8800,19,0.76,62,F,secondary specialized/vocational,Estonia,Tallinn
+B1_2018IV_003-138,2018,B1,96,0.9600,23,0.92,28,M,primary/basic,Russia,Tallinn
+B1_2018IV_004-008,2018,B1,88,0.8800,23,0.92,27,F,secondary,Philippines,Kambja parish
+B1_2018IV_004-011,2018,B1,83,0.8300,15,0.60,29,M,secondary,Estonia,Tartu town
+B2_2018I_001-009,2018,B2,92,0.9200,19,0.76,42,,secondary,Finland,Tallinn
+B2_2018I_001-026,2018,B2,98,0.9800,25,1.00,18,M,primary/basic,Estonia,Tallinn
+B2_2018I_001-043,2018,B2,77,0.7700,19,0.76,17,M,primary/basic,Estonia,Tallinn
+B2_2018I_001-066,2018,B2,98,0.9800,25,1.00,43,M,higher,Latvia,Tallinn
+B2_2018I_001-086,2018,B2,91,0.9100,21,0.84,19,F,secondary,Estonia,
+B2_2018I_001-087,2018,B2,79,0.7900,19,0.76,26,M,secondary specialized/vocational,undefined,Tartu town
+B2_2018I_001-093,2018,B2,77,0.7700,16,0.64,32,M,secondary,Estonia,Tallinn
+B2_2018I_001-143,2018,B2,68,0.6800,19,0.76,45,F,higher,Latvia,Tallinn
+B2_2018I_001-158,2018,B2,95,0.9500,24,0.96,18,F,primary/basic,Estonia,
+B2_2018I_002-006,2018,B2,98,0.9800,24,0.96,19,F,secondary,Estonia,
+B2_2018I_003-012,2018,B2,70,0.7000,19,0.76,47,F,higher,Estonia,Kohtla-Järve town
+B2_2018I_003-027,2018,B2,68,0.6800,17,0.68,35,F,higher,Russia,Sillamäe town
+B2_2018I_003-028,2018,B2,70,0.7000,15,0.60,18,F,primary/basic,Estonia,Kohtla-Järve town
+B2_2018I_003-039,2018,B2,89,0.8900,24,0.96,40,F,secondary specialized/vocational,Estonia,Kohtla-Järve town
+B2_2018I_003-044,2018,B2,61,0.6100,19,0.76,33,F,secondary,undefined,Narva town
+B2_2018I_003-052,2018,B2,64,0.6400,15,0.60,41,F,secondary specialized/vocational,Russia,Alutaguse parish
+B2_2018I_003-065,2018,B2,98,0.9800,24,0.96,16,F,primary/basic,Estonia,Kohtla-Järve town
+B2_2018I_004-003,2018,B2,73,0.7300,18,0.72,42,F,higher,Estonia,Sillamäe town
+B2_2018I_004-005,2018,B2,84,0.8400,21,0.84,17,M,primary/basic,Russia,Narva town
+B2_2018I_004-026,2018,B2,73,0.7300,19,0.76,18,F,primary/basic,Estonia,Narva town
+B2_2018I_004-032,2018,B2,86,0.8600,21,0.84,16,F,primary/basic,Russia,Narva town
+B2_2018I_004-049,2018,B2,68,0.6800,16,0.64,35,M,,Estonia,Narva town
+B2_2018I_004-054,2018,B2,86,0.8600,19,0.76,19,M,primary/basic,Estonia,Narva town
+B2_2018I_004-064,2018,B2,80,0.8000,21,0.84,17,F,primary/basic,Estonia,Narva town
+B2_2018I_004-081,2018,B2,74,0.7400,16,0.64,17,F,primary/basic,Estonia,Sillamäe town
+B2_2018I_004-097,2018,B2,68,0.6800,18,0.72,17,F,primary/basic,Estonia,Narva town
+B2_2018I_005-001,2018,B2,88,0.8800,22,0.88,70,,higher,Finland,
+B2_2018I_005-007,2018,B2,89,0.8900,23,0.92,42,,higher,Finland,
+B2_2018I_005-009,2018,B2,93,0.9300,24,0.96,59,M,secondary,Finland,Saue parish
+B2_2018I_005-017,2018,B2,74,0.7400,19,0.76,67,,higher,Finland,
+B2_2018II_001-011,2018,B2,66,0.6600,16,0.64,45,F,secondary specialized/vocational,Estonia,Narva town
+B2_2018II_001-013,2018,B2,69,0.6900,16,0.64,17,F,primary/basic,Estonia,Kohtla-Järve town
+B2_2018II_001-015,2018,B2,81,0.8100,17,0.68,29,M,secondary specialized/vocational,Estonia,Jõhvi parish
+B2_2018II_001-022,2018,B2,73,0.7300,15,0.60,34,F,higher,Estonia,Kohtla-Järve town
+B2_2018II_001-068,2018,B2,64,0.6400,16,0.64,43,F,higher,Estonia,Kohtla-Järve town
+B2_2018II_001-079,2018,B2,71,0.7100,18,0.72,38,M,higher,Russia,Kohtla-Järve town
+B2_2018II_001-085,2018,B2,68,0.6800,16,0.64,57,F,secondary specialized/vocational,Estonia,Viru-Nigula parish
+B2_2018II_001-108,2018,B2,90,0.9000,21,0.84,39,F,higher,Estonia,Viru-Nigula parish
+B2_2018II_002-001,2018,B2,60,0.6000,18,0.72,32,F,secondary specialized/vocational,Estonia,Sillamäe town
+B2_2018II_002-005,2018,B2,64,0.6400,17,0.68,38,F,higher,Russia,Narva town
+B2_2018II_002-015,2018,B2,80,0.8000,16,0.64,44,M,secondary specialized/vocational,undefined,
+B2_2018II_002-016,2018,B2,82,0.8200,19,0.76,29,F,secondary specialized/vocational,Estonia,Narva town
+B2_2018II_002-023,2018,B2,80,0.8000,21,0.84,18,F,primary/basic,Estonia,Narva town
+B2_2018II_002-065,2018,B2,69,0.6900,17,0.68,18,M,primary/basic,Estonia,Sillamäe town
+B2_2018II_002-067,2018,B2,83,0.8300,18,0.72,50,F,higher,Estonia,Narva town
+B2_2018II_003-009,2018,B2,81,0.8100,18,0.72,40,F,secondary specialized/vocational,Estonia,Võru parish
+B2_2018II_003-012,2018,B2,76,0.7600,18,0.72,27,F,higher,Russia,Tartu town
+B2_2018II_003-018,2018,B2,77,0.7700,18,0.72,32,F,secondary,Estonia,Tartu town
+B2_2018II_004-025,2018,B2,79,0.7900,20,0.80,17,F,primary/basic,Estonia,Tallinn
+B2_2018II_004-040,2018,B2,76,0.7600,19,0.76,40,F,secondary specialized/vocational,Estonia,Tallinn
+B2_2018II_004-057,2018,B2,78,0.7800,21,0.84,33,F,secondary specialized/vocational,Estonia,Tallinn
+B2_2018II_004-061,2018,B2,81,0.8100,17,0.68,26,M,secondary specialized/vocational,Estonia,Tallinn
+B2_2018II_004-066,2018,B2,72,0.7200,16,0.64,20,M,secondary,Estonia,Tallinn
+B2_2018II_004-072,2018,B2,75,0.7500,16,0.64,41,F,higher,undefined,Tallinn
+B2_2018II_004-092,2018,B2,92,0.9200,21,0.84,33,F,higher,Estonia,Tallinn
+B2_2018II_004-106,2018,B2,79,0.7900,20,0.80,43,F,secondary,Estonia,Maardu town
+B2_2018II_004-119,2018,B2,65,0.6500,16,0.64,28,M,higher,Estonia,Tallinn
+B2_2018II_004-126,2018,B2,79,0.7900,16,0.64,29,F,higher,Russia,Tallinn
+B2_2018II_004-134,2018,B2,75,0.7500,22,0.88,44,F,higher,Russia,Tallinn
+B2_2018II_004-144,2018,B2,95,0.9500,21,0.84,32,F,higher,Finland,Rakvere town
+B2_2018III_001-004,2018,B2,79,0.7900,18,0.72,14,F,primary/basic,Estonia,Toila parish
+B2_2018III_001-019,2018,B2,82,0.8200,18,0.72,21,F,secondary specialized/vocational,Russia,Narva town
+B2_2018III_001-028,2018,B2,80,0.8000,16,0.64,35,F,secondary specialized/vocational,Estonia,Jõhvi parish
+B2_2018III_001-048,2018,B2,74,0.7400,16,0.64,16,F,primary/basic,Estonia,Kohtla-Järve town
+B2_2018III_002-005,2018,B2,65,0.6500,17,0.68,18,F,secondary,Estonia,Narva town
+B2_2018III_002-008,2018,B2,72,0.7200,16,0.64,18,M,primary/basic,Estonia,
+B2_2018III_002-014,2018,B2,62,0.6200,17,0.68,17,F,primary/basic,Estonia,Narva town
+B2_2018III_002-018,2018,B2,73,0.7300,19,0.76,35,F,higher,Estonia,Narva town
+B2_2018III_002-042,2018,B2,70,0.7000,17,0.68,17,F,primary/basic,Estonia,
+B2_2018III_002-049,2018,B2,75,0.7500,19,0.76,16,F,primary/basic,Estonia,Narva town
+B2_2018III_002-062,2018,B2,66,0.6600,17,0.68,42,M,higher,Estonia,Narva town
+B2_2018III_002-063,2018,B2,84,0.8400,21,0.84,18,F,primary/basic,Estonia,Narva town
+B2_2018III_003-002,2018,B2,87,0.8700,20,0.80,40,F,higher,Russia,Viimsi parish
+B2_2018III_003-007,2018,B2,86,0.8600,15,0.60,20,M,higher,Estonia,Tallinn
+B2_2018III_003-020,2018,B2,77,0.7700,21,0.84,18,M,primary/basic,Estonia,Tallinn
+B2_2018III_003-024,2018,B2,92,0.9200,24,0.96,32,M,higher,Estonia,Tallinn
+B2_2018III_003-028,2018,B2,92,0.9200,21,0.84,58,F,secondary specialized/vocational,Estonia,Tori parish
+B2_2018III_003-032,2018,B2,86,0.8600,24,0.96,46,F,higher,Russia,Tallinn
+B2_2018III_003-043,2018,B2,83,0.8300,19,0.76,38,F,higher,Latvia,Tallinn
+B2_2018III_003-053,2018,B2,75,0.7500,23,0.92,34,F,higher,Ukraine,Tallinn
+B2_2018III_003-069,2018,B2,80,0.8000,15,0.60,37,M,higher,Ireland,Tallinn
+B2_2018III_003-072,2018,B2,63,0.6300,18,0.72,41,M,higher,Latvia,Tallinn
+B2_2018III_003-075,2018,B2,75,0.7500,16,0.64,49,F,secondary specialized/vocational,Estonia,Tallinn
+B2_2018III_003-081,2018,B2,91,0.9100,20,0.80,27,M,secondary specialized/vocational,undefined,Tallinn
+B2_2018III_003-086,2018,B2,88,0.8800,17,0.68,31,F,primary/basic,Estonia,Tallinn
+B2_2018III_003-099,2018,B2,62,0.6200,15,0.60,20,M,secondary,Estonia,Tallinn
+B2_2018III_003-106,2018,B2,65,0.6500,17,0.68,33,F,secondary specialized/vocational,Estonia,Tallinn
+B2_2018III_003-107,2018,B2,73,0.7300,16,0.64,15,F,primary/basic,Lithuania,Tallinn
+B2_2018III_003-108,2018,B2,77,0.7700,17,0.68,33,F,higher,Venezuela,Tallinn
+B2_2018III_004-010,2018,B2,92,0.9200,24,0.96,47,F,higher,Estonia,Elva parish
+B2_2018IV_001-016,2018,B2,71,0.7100,21,0.84,17,F,primary/basic,Estonia,Sillamäe town
+B2_2018IV_002-005,2018,B2,66,0.6600,19,0.76,17,F,primary/basic,Estonia,Narva town
+B2_2018IV_002-017,2018,B2,63,0.6300,16,0.64,20,F,secondary,Russia,Narva town
+B2_2018IV_002-021,2018,B2,67,0.6700,17,0.68,18,F,primary/basic,Estonia,Narva town
+B2_2018IV_002-028,2018,B2,66,0.6600,16,0.64,17,M,secondary,Estonia,Narva town
+B2_2018IV_002-031,2018,B2,73,0.7300,16,0.64,17,F,primary/basic,Estonia,Narva town
+B2_2018IV_002-035,2018,B2,69,0.6900,15,0.60,27,F,higher,Latvia,Sillamäe town
+B2_2018IV_002-057,2018,B2,78,0.7800,18,0.72,14,F,,undefined,Narva town
+B2_2018IV_002-059,2018,B2,73,0.7300,18,0.72,17,M,primary/basic,undefined,Narva town
+B2_2018IV_002-061,2018,B2,60,0.6000,18,0.72,37,F,higher,Estonia,Narva town
+B2_2018IV_002-065,2018,B2,81,0.8100,19,0.76,17,F,primary/basic,Estonia,Narva town
+B2_2018IV_002-067,2018,B2,74,0.7400,19,0.76,18,M,primary/basic,Estonia,Sillamäe town
+B2_2018IV_002-069,2018,B2,82,0.8200,21,0.84,19,M,primary/basic,Estonia,Narva-Jõesuu town
+B2_2018IV_002-070,2018,B2,73,0.7300,20,0.80,18,F,primary/basic,Russia,Narva town
+B2_2018IV_002-073,2018,B2,66,0.6600,23,0.92,18,M,primary/basic,Russia,Narva town
+B2_2018IV_002-078,2018,B2,78,0.7800,16,0.64,40,F,higher,Estonia,Narva town
+B2_2018IV_002-081,2018,B2,60,0.6000,16,0.64,35,F,higher,Estonia,Narva town
+B2_2018IV_003-011,2018,B2,98,0.9800,25,1.00,35,F,higher,undefined,Tallinn
+B2_2018IV_003-016,2018,B2,71,0.7100,17,0.68,23,M,secondary,Estonia,Tallinn
+B2_2018IV_003-024,2018,B2,84,0.8400,16,0.64,29,M,higher,Estonia,Tallinn
+B2_2018IV_003-035,2018,B2,70,0.7000,17,0.68,17,F,,Estonia,Tallinn
+B2_2018IV_003-039,2018,B2,63,0.6300,21,0.84,23,F,secondary,Latvia,Tallinn
+B2_2018IV_003-048,2018,B2,74,0.7400,16,0.64,44,F,higher,Estonia,Tallinn
+B2_2018IV_003-060,2018,B2,76,0.7600,16,0.64,41,F,higher,Estonia,Anija parish
+B2_2018IV_003-064,2018,B2,73,0.7300,16,0.64,44,F,primary/basic,Estonia,Tallinn
+B2_2018IV_003-086,2018,B2,70,0.7000,15,0.60,59,F,secondary specialized/vocational,Estonia,Tallinn
+B2_2018IV_003-094,2018,B2,91,0.9100,21,0.84,17,F,primary/basic,Estonia,Tallinn
+B2_2018IV_004-006,2018,B2,75,0.7500,21,0.84,26,F,higher,Estonia,Valga parish
+B2_2018IV_004-011,2018,B2,76,0.7600,16,0.64,32,F,secondary,Estonia,Tartu town
+B2_2018IV_004-012,2018,B2,81,0.8100,21,0.84,49,M,higher,Russia,Valga parish
+C1_2017I_001-006,2017,C1,85,0.8500,17,0.68,20,F,primary/basic,Estonia,Tallinn
+C1_2017I_001-035,2017,C1,79,0.7900,15,0.60,34,F,higher,Estonia,Tallinn
+C1_2017I_001-039,2017,C1,71,0.7100,15,0.60,17,M,primary/basic,Estonia,Tallinn
+C1_2017I_001-059,2017,C1,88,0.8800,24,0.96,18,M,secondary,Estonia,Tallinn
+C1_2017I_001-068,2017,C1,96,0.9600,25,1.00,52,F,higher,Estonia,Narva town
+C1_2017I_001-070,2017,C1,78,0.7800,18,0.72,17,F,primary/basic,Estonia,
+C1_2017I_001-074,2017,C1,81,0.8100,20,0.80,20,F,secondary,Estonia,Tallinn
+C1_2017I_001-083,2017,C1,61,0.6100,15,0.60,24,F,secondary,Estonia,Tallinn
+C1_2017I_001-096,2017,C1,84,0.8400,18,0.72,17,M,primary/basic,Estonia,Tallinn
+C1_2017I_001-097,2017,C1,77,0.7700,17,0.68,23,F,higher,Estonia,Tallinn
+C1_2017I_001-098,2017,C1,66,0.6600,15,0.60,21,F,secondary,Estonia,Tallinn
+C1_2017I_001-103,2017,C1,83,0.8300,19,0.76,32,M,higher,Estonia,Tallinn
+C1_2017I_001-110,2017,C1,82,0.8200,20,0.80,38,F,higher,Estonia,Kiili parish
+C1_2017I_002-004,2017,C1,69,0.6900,16,0.64,38,F,higher,Estonia,Jõgeva parish
+C1_2017I_003-047,2017,C1,71,0.7100,17,0.68,25,F,secondary,Estonia,Narva town
+C1_2017I_003-091,2017,C1,79,0.7900,20,0.80,50,F,higher,Estonia,Tallinn
+C1_2017I_004-025,2017,C1,76,0.7600,16,0.64,32,M,secondary,Estonia,Kohtla-Järve town
+C1_2017II_001-038,2017,C1,68,0.6800,15,0.60,28,F,higher,Russia,Sillamäe town
+C1_2017II_001-068,2017,C1,79,0.7900,15,0.60,48,F,higher,Estonia,Narva-Jõesuu town
+C1_2017II_001-129,2017,C1,63,0.6300,16,0.64,17,F,primary/basic,Russia,Narva town
+C1_2017II_001-151,2017,C1,85,0.8500,23,0.92,19,F,secondary,Estonia,Narva town
+C1_2017II_001-167,2017,C1,79,0.7900,15,0.60,25,M,secondary,Estonia,Narva town
+C1_2017II_002-007,2017,C1,87,0.8700,18,0.72,32,F,higher,Finland,Tartu town
+C1_2017II_002-009,2017,C1,77,0.7700,17,0.68,31,F,higher,Germany,Tartu town
+C1_2017II_003-014,2017,C1,67,0.6700,15,0.60,22,F,secondary,Estonia,Tallinn
+C1_2017II_003-022,2017,C1,88,0.8800,19,0.76,24,M,higher,Russia,Tallinn
+C1_2017II_003-029,2017,C1,77,0.7700,15,0.60,30,F,secondary,Estonia,Viimsi parish
+C1_2017II_003-073,2017,C1,89,0.8900,16,0.64,32,F,secondary,Estonia,Harku parish
+C1_2017II_003-096,2017,C1,80,0.8000,17,0.68,16,M,,Estonia,Hiiumaa parish
+C1_2017II_003-097,2017,C1,86,0.8600,18,0.72,40,M,higher,Russia,Tallinn
+C1_2017II_003-102,2017,C1,78,0.7800,19,0.76,18,F,primary/basic,Estonia,Tallinn
+C1_2017II_003-114,2017,C1,75,0.7500,16,0.64,30,M,secondary specialized/vocational,Estonia,Tallinn
+C1_2017II_003-117,2017,C1,76,0.7600,16,0.64,43,M,secondary,Estonia,Pärnu town
+C1_2017II_003-119,2017,C1,96,0.9600,22,0.88,17,M,primary/basic,Estonia,Tallinn
+C1_2017II_003-122,2017,C1,72,0.7200,15,0.60,28,F,higher,Finland,Tallinn
+C1_2017II_003-129,2017,C1,61,0.6100,15,0.60,53,M,higher,Estonia,Tallinn
+C1_2017II_003-140,2017,C1,77,0.7700,15,0.60,29,F,higher,Estonia,Viru-Nigula parish
+C1_2017II_004-027,2017,C1,78,0.7800,18,0.72,17,F,primary/basic,Estonia,Jõhvi parish
+C1_2017II_004-047,2017,C1,65,0.6500,15,0.60,21,F,secondary,Estonia,Sillamäe town
+C1_2017III_001-001,2017,C1,60,0.6000,16,0.64,48,F,higher,Russia,Narva town
+C1_2017III_001-002,2017,C1,85,0.8500,24,0.96,18,F,primary/basic,Estonia,Narva town
+C1_2017III_001-007,2017,C1,90,0.9000,24,0.96,25,M,secondary,Estonia,Narva town
+C1_2017III_001-013,2017,C1,79,0.7900,15,0.60,24,M,secondary,Estonia,Narva town
+C1_2017III_001-019,2017,C1,76,0.7600,19,0.76,19,F,secondary,Russia,Narva-Jõesuu town
+C1_2017III_001-030,2017,C1,62,0.6200,15,0.60,46,F,higher,Estonia,Narva town
+C1_2017III_001-046,2017,C1,78,0.7800,16,0.64,18,M,primary/basic,Estonia,Narva town
+C1_2017III_001-064,2017,C1,76,0.7600,16,0.64,31,M,secondary specialized/vocational,Estonia,Toila parish
+C1_2017III_001-067,2017,C1,78,0.7800,22,0.88,18,F,primary/basic,Estonia,Narva town
+C1_2017III_001-078,2017,C1,80,0.8000,16,0.64,31,F,higher,Estonia,Narva town
+C1_2017III_003-010,2017,C1,80,0.8000,17,0.68,17,M,primary/basic,Estonia,Tallinn
+C1_2017III_003-058,2017,C1,73,0.7300,19,0.76,25,F,higher,Estonia,Tallinn
+C1_2017III_003-072,2017,C1,83,0.8300,21,0.84,25,F,higher,Russia,Tallinn
+C1_2017III_004-003,2017,C1,84,0.8400,22,0.88,28,F,higher,Estonia,Narva town
+C1_2017III_004-025,2017,C1,70,0.7000,15,0.60,23,F,secondary,Estonia,Kohtla-Järve town
+C1_2017IV_001-009,2017,C1,79,0.7900,16,0.64,18,F,primary/basic,Estonia,Lääne-Harju parish
+C1_2017IV_001-028,2017,C1,66,0.6600,15,0.60,18,F,primary/basic,Estonia,Tallinn
+C1_2017IV_001-029,2017,C1,63,0.6300,18,0.72,18,F,primary/basic,Estonia,Tallinn
+C1_2017IV_001-032,2017,C1,66,0.6600,17,0.68,26,F,secondary specialized/vocational,Russia,Tallinn
+C1_2017IV_001-056,2017,C1,66,0.6600,15,0.60,23,F,secondary,Estonia,Tallinn
+C1_2017IV_001-094,2017,C1,77,0.7700,17,0.68,18,M,secondary,Estonia,Tallinn
+C1_2017IV_001-095,2017,C1,75,0.7500,15,0.60,17,F,secondary,Estonia,Tallinn
+C1_2017IV_001-102,2017,C1,77,0.7700,16,0.64,18,F,primary/basic,Estonia,Tallinn
+C1_2017IV_001-104,2017,C1,73,0.7300,15,0.60,18,F,primary/basic,Estonia,Lääne-Harju parish
+C1_2017IV_001-132,2017,C1,86,0.8600,18,0.72,53,M,higher,Finland,Tallinn
+C1_2017IV_001-133,2017,C1,77,0.7700,16,0.64,42,F,higher,Estonia,Tallinn
+C1_2017IV_001-135,2017,C1,72,0.7200,17,0.68,21,F,secondary,Estonia,Tallinn
+C1_2017IV_001-136,2017,C1,74,0.7400,16,0.64,30,M,higher,Russia,Viljandi town
+C1_2017IV_001-154,2017,C1,83,0.8300,18,0.72,16,F,secondary,Estonia,Tallinn
+C1_2017IV_001-157,2017,C1,71,0.7100,15,0.60,17,F,primary/basic,Estonia,Tallinn
+C1_2017IV_002-003,2017,C1,67,0.6700,15,0.60,32,F,higher,Russia,
+C1_2017IV_002-011,2017,C1,80,0.8000,19,0.76,18,F,secondary,Estonia,Tartu parish
+C1_2017IV_003-015,2017,C1,72,0.7200,15,0.60,17,F,primary/basic,Estonia,Jõhvi parish
+C1_2017IV_003-023,2017,C1,74,0.7400,15,0.60,17,F,,Estonia,Kohtla-Järve town
+C1_2018I_001-027,2018,C1,88,0.8800,18,0.72,21,F,secondary,Estonia,
+C1_2018I_001-038,2018,C1,80,0.8000,20,0.80,27,F,secondary,Estonia,Saue parish
+C1_2018I_001-120,2018,C1,89,0.8900,15,0.60,34,,higher,Finland,
+C1_2018I_001-122,2018,C1,80,0.8000,15,0.60,19,M,primary/basic,Estonia,Tallinn
+C1_2018I_001-130,2018,C1,93,0.9300,23,0.92,21,M,secondary,Estonia,Tallinn
+C1_2018I_002-030,2018,C1,93,0.9300,23,0.92,18,M,secondary,Estonia,Kohtla-Järve town
+C1_2018I_002-034,2018,C1,79,0.7900,15,0.60,37,F,higher,Estonia,Jõhvi parish
+C1_2018I_002-037,2018,C1,66,0.6600,17,0.68,25,M,higher,Estonia,Jõhvi parish
+C1_2018I_003-002,2018,C1,79,0.7900,17,0.68,18,F,primary/basic,Russia,Narva town
+C1_2018I_003-006,2018,C1,85,0.8500,19,0.76,17,F,primary/basic,Estonia,
+C1_2018I_003-026,2018,C1,87,0.8700,19,0.76,18,M,primary/basic,Estonia,Narva town
+C1_2018I_003-028,2018,C1,61,0.6100,15,0.60,22,F,secondary,Estonia,Narva town
+C1_2018I_004-002,2018,C1,89,0.8900,18,0.72,17,M,secondary,Estonia,Luunja parish
+C1_2018II_001-001,2018,C1,77,0.7700,17,0.68,19,F,primary/basic,Estonia,Kohtla-Järve town
+C1_2018II_001-004,2018,C1,85,0.8500,20,0.80,35,F,higher,Estonia,Kohtla-Järve town
+C1_2018II_001-011,2018,C1,74,0.7400,15,0.60,16,M,secondary,Ukraine,Kohtla-Järve town
+C1_2018II_001-016,2018,C1,72,0.7200,17,0.68,19,M,primary/basic,Estonia,Kohtla-Järve town
+C1_2018II_002-009,2018,C1,83,0.8300,21,0.84,35,F,higher,Estonia,Narva town
+C1_2018II_002-062,2018,C1,74,0.7400,17,0.68,43,F,higher,Estonia,Narva town
+C1_2018II_002-066,2018,C1,61,0.6100,16,0.64,22,F,secondary,Estonia,Narva town
+C1_2018II_003-002,2018,C1,80,0.8000,18,0.72,28,M,higher,Germany,Tartu town
+C1_2018II_003-006,2018,C1,80,0.8000,19,0.76,23,F,higher,Bulgaria,Tartu town
+C1_2018II_003-008,2018,C1,85,0.8500,16,0.64,30,F,secondary,Estonia,Tartu town
+C1_2018II_003-011,2018,C1,68,0.6800,15,0.60,21,M,secondary,Estonia,Tallinn
+C1_2018II_004-010,2018,C1,90,0.9000,20,0.80,17,M,primary/basic,Estonia,Tallinn
+C1_2018II_004-034,2018,C1,70,0.7000,15,0.60,41,F,secondary specialized/vocational,Estonia,Tallinn
+C1_2018II_004-070,2018,C1,97,0.9700,25,1.00,49,M,,Estonia,Tallinn
+C1_2018II_004-071,2018,C1,74,0.7400,15,0.60,17,F,primary/basic,Estonia,Lääne-Harju parish
+C1_2018III_001-005,2018,C1,69,0.6900,15,0.60,46,F,higher,Estonia,Kohtla-Järve town
+C1_2018III_003-040,2018,C1,85,0.8500,15,0.60,24,M,higher,Germany,
+C1_2018III_003-047,2018,C1,68,0.6800,15,0.60,18,F,secondary,Estonia,Tallinn
+C1_2018III_003-052,2018,C1,71,0.7100,16,0.64,28,F,secondary,Russia,Tallinn
+C1_2018III_003-066,2018,C1,87,0.8700,21,0.84,35,F,higher,undefined,Lääne-Harju parish
+C1_2018IV_001-005,2018,C1,75,0.7500,20,0.80,18,F,primary/basic,Estonia,Kohtla-Järve town
+C1_2018IV_001-009,2018,C1,72,0.7200,16,0.64,33,F,higher,undefined,Jõhvi parish
+C1_2018IV_001-016,2018,C1,72,0.7200,17,0.68,17,F,primary/basic,Estonia,Kohtla-Järve town
+C1_2018IV_001-020,2018,C1,63,0.6300,15,0.60,24,F,secondary,Estonia,Kohtla-Järve town
+C1_2018IV_002-036,2018,C1,62,0.6200,16,0.64,17,F,primary/basic,Estonia,Narva town
+C1_2018IV_002-071,2018,C1,60,0.6000,15,0.60,48,F,higher,Estonia,Narva town
+C1_2018IV_002-079,2018,C1,73,0.7300,17,0.68,18,F,primary/basic,Estonia,Narva town
+C1_2018IV_003-015,2018,C1,86,0.8600,20,0.80,17,M,primary/basic,Estonia,Tallinn
+C1_2018IV_003-019,2018,C1,77,0.7700,17,0.68,18,F,primary/basic,Estonia,Tallinn
+C1_2018IV_003-025,2018,C1,74,0.7400,16,0.64,58,M,higher,Finland,Tallinn
+C1_2018IV_003-037,2018,C1,76,0.7600,15,0.60,18,F,primary/basic,Estonia,Tallinn
+C1_2018IV_003-069,2018,C1,79,0.7900,18,0.72,18,F,primary/basic,Estonia,Tallinn
+C1_2018IV_003-096,2018,C1,68,0.6800,15,0.60,18,F,secondary,Estonia,Viimsi parish
+C1_2018IV_004-006,2018,C1,83,0.8300,16,0.64,26,F,secondary specialized/vocational,undefined,Tartu town
+A2_2020II_002-007,2020,A2,58,0.7250,15,0.75,45,F,secondary specialized/vocational,undefined,Narva town
+A2_2020II_002-019,2020,A2,72,0.9000,20,1.00,38,F,higher,Kazakhstan,Narva-Jõesuu town
+A2_2020II_002-027,2020,A2,57,0.7125,15,0.75,25,F,higher,Belarus,Narva town
+A2_2020II_002-028,2020,A2,64,0.8000,17,0.85,19,M,secondary specialized/vocational,Estonia,Narva-Jõesuu town
+A2_2020II_002-044,2020,A2,68,0.8500,17,0.85,28,F,secondary specialized/vocational,Estonia,Narva town
+A2_2020II_002-054,2020,A2,69,0.8625,15,0.75,45,F,secondary specialized/vocational,undefined,Sillamäe town
+A2_2020II_004-001,2020,A2,71,0.8875,18,0.90,29,M,higher,Belarus,Tallinn
+A2_2020II_004-029,2020,A2,51,0.6375,18,0.90,36,F,higher,Belarus,Tallinn
+A2_2020II_004-033,2020,A2,74,0.9250,18,0.90,35,F,higher,undefined,Tallinn
+A2_2020II_004-042,2020,A2,69,0.8625,20,1.00,40,M,higher,Italy,Tallinn
+A2_2020II_004-043,2020,A2,79,0.9875,20,1.00,23,M,secondary,Afghanistan,Tallinn
+A2_2020II_004-046,2020,A2,66,0.8250,16,0.80,31,M,higher,Ukraine,Tallinn
+A2_2020II_004-050,2020,A2,73,0.9125,18,0.90,41,F,higher,Ukraine,Tallinn
+A2_2020II_004-055,2020,A2,59,0.7375,17,0.85,57,F,secondary specialized/vocational,Estonia,Maardu town
+A2_2020II_004-061,2020,A2,77,0.9625,20,1.00,26,F,higher,Latvia,Tallinn
+A2_2020II_004-068,2020,A2,59,0.7375,13,0.65,52,F,secondary specialized/vocational,Estonia,Maardu town
+A2_2020II_004-076,2020,A2,63,0.7875,17,0.85,22,F,secondary,Russia,Tallinn
+A2_2020II_004-077,2020,A2,68,0.8500,17,0.85,35,M,higher,Ukraine,Tallinn
+A2_2020II_004-088,2020,A2,72,0.9000,20,1.00,31,F,higher,Latvia,Tallinn
+A2_2020II_004-089,2020,A2,69,0.8625,18,0.90,39,F,higher,Russia,Tallinn
+A2_2020II_004-103,2020,A2,69,0.8625,18,0.90,28,M,higher,Romania,Tallinn
+A2_2020II_004-108,2020,A2,71,0.8875,18,0.90,39,M,higher,Russia,Tallinn
+A2_2020II_004-110,2020,A2,77,0.9625,19,0.95,42,F,secondary specialized/vocational,USA,Tallinn
+A2_2020II_004-120,2020,A2,75,0.9375,18,0.90,34,M,secondary specialized/vocational,Latvia,Tallinn
+A2_2020II_004-130,2020,A2,54,0.6750,12,0.60,26,F,secondary,Latvia,Tallinn
+A2_2020II_004-136,2020,A2,70,0.8750,18,0.90,27,F,higher,Russia,Tallinn
+A2_2020II_004-147,2020,A2,70,0.8750,18,0.90,33,F,higher,Russia,Tallinn
+A2_2020II_005-006,2020,A2,68,0.8500,15,0.75,17,F,secondary specialized/vocational,Russia,Jõhvi parish
+A2_2020II_005-014,2020,A2,63,0.7875,16,0.80,61,F,secondary specialized/vocational,Estonia,Kohtla-Järve town
+A2_2020II_005-030,2020,A2,63,0.7875,20,1.00,46,F,secondary specialized/vocational,Russia,Jõhvi parish
+A2_2020IV_002-002,2020,A2,60,0.7500,18,0.90,45,F,secondary specialized/vocational,Estonia,Narva town
+A2_2020IV_002-003,2020,A2,71,0.8875,18,0.90,39,F,secondary specialized/vocational,Estonia,Narva town
+A2_2020IV_002-010,2020,A2,53,0.6625,16,0.80,48,F,secondary specialized/vocational,Estonia,Narva-Jõesuu town
+A2_2020IV_002-011,2020,A2,59,0.7375,15,0.75,48,M,secondary specialized/vocational,Estonia,Narva town
+A2_2020IV_002-012,2020,A2,66,0.8250,18,0.90,28,M,higher,Ukraine,Narva town
+A2_2020IV_002-015,2020,A2,53,0.6625,12,0.60,20,M,primary/basic,Estonia,Narva town
+A2_2020IV_002-016,2020,A2,53,0.6625,13,0.65,50,F,secondary,Estonia,Narva town
+A2_2020IV_003-004,2020,A2,67,0.8375,17,0.85,32,F,higher,Ukraine,Tartu town
+A2_2020IV_004-002,2020,A2,61,0.7625,12,0.60,42,F,higher,Romania,Viimsi parish
+A2_2020IV_004-029,2020,A2,64,0.8000,18,0.90,38,F,higher,Estonia,Tallinn
+A2_2020IV_004-035,2020,A2,58,0.7250,16,0.80,56,F,secondary specialized/vocational,Estonia,Tallinn
+A2_2020IV_004-037,2020,A2,64,0.8000,16,0.80,40,F,secondary,Estonia,Tallinn
+A2_2020IV_004-046,2020,A2,58,0.7250,18,0.90,32,M,higher,Ukraine,Tallinn
+A2_2020IV_004-047,2020,A2,53,0.6625,12,0.60,35,F,higher,Ukraine,Tallinn
+A2_2020IV_004-053,2020,A2,53,0.6625,19,0.95,25,F,secondary specialized/vocational,Russia,Tallinn
+A2_2020IV_004-067,2020,A2,68,0.8500,19,0.95,23,F,secondary,Belarus,Tallinn
+A2_2020IV_004-069,2020,A2,56,0.7000,18,0.90,31,F,higher,Italy,Jõelähtme parish
+A2_2020IV_004-078,2020,A2,64,0.8000,17,0.85,60,M,secondary specialized/vocational,Estonia,Tallinn
+A2_2020IV_004-081,2020,A2,58,0.7250,18,0.90,33,F,higher,Russia,Tallinn
+A2_2020IV_004-091,2020,A2,63,0.7875,18,0.90,26,F,higher,Moldova,Tallinn
+A2_2020IV_004-106,2020,A2,64,0.8000,17,0.85,25,F,higher,Syria,Tallinn
+A2_2020IV_004-111,2020,A2,65,0.8125,20,1.00,28,F,secondary specialized/vocational,Russia,Tallinn
+A2_2020IV_004-112,2020,A2,57,0.7125,14,0.70,37,M,higher,Canada,Tallinn
+A2_2020IV_004-117,2020,A2,64,0.8000,18,0.90,59,F,secondary specialized/vocational,Russia,Tallinn
+A2_2020IV_004-121,2020,A2,72,0.9000,20,1.00,30,F,primary/basic,Ukraine,Tallinn
+A2_2020IV_004-126,2020,A2,73,0.9125,18,0.90,34,F,higher,Russia,Tallinn
+A2_2020IV_005-005,2020,A2,71,0.8875,18,0.90,40,F,secondary,Estonia,Kohtla-Järve town
+A2_2020IV_005-025,2020,A2,65,0.8125,18,0.90,38,F,secondary specialized/vocational,undefined,Jõhvi parish
+A2_2020IV_005-027,2020,A2,54,0.6750,13,0.65,53,F,secondary specialized/vocational,Russia,Kohtla-Järve town
+A2_2020IV_005-029,2020,A2,60,0.7500,15,0.75,38,F,primary/basic,undefined,Kohtla-Järve town
+B1_2020I_001-083,2020,B1,70,0.7000,16,0.64,41,F,higher,Ukraine,Kohtla-Järve town
+B1_2020I_001-096,2020,B1,79,0.7900,21,0.84,37,F,secondary specialized/vocational,undefined,Jõhvi parish
+B1_2020I_001-099,2020,B1,82,0.8200,19,0.76,27,M,secondary,Estonia,Sillamäe town
+B1_2020I_001-107,2020,B1,78,0.7800,16,0.64,30,F,secondary specialized/vocational,Estonia,Sillamäe town
+B1_2020I_002-111,2020,B1,92,0.9200,23,0.92,14,F,primary/basic,Estonia,Narva town
+B1_2020I_002-162,2020,B1,77,0.7700,16,0.64,15,M,primary/basic,Estonia,Narva town
+B1_2020I_003-032,2020,B1,75,0.7500,19,0.76,60,F,secondary specialized/vocational,Estonia,Tallinn
+B1_2020I_003-072,2020,B1,81,0.8100,16,0.64,62,F,secondary specialized/vocational,Estonia,Tallinn
+B1_2020I_003-073,2020,B1,86,0.8600,19,0.76,33,F,higher,Hungary,Tallinn
+B1_2020I_003-079,2020,B1,87,0.8700,20,0.80,42,F,higher,Russia,Tallinn
+B1_2020I_003-145,2020,B1,81,0.8100,18,0.72,38,M,higher,Belarus,Viimsi parish
+B1_2020I_003-170,2020,B1,73,0.7300,17,0.68,51,F,secondary specialized/vocational,undefined,Tallinn
+B1_2020I_003-197,2020,B1,90,0.9000,22,0.88,46,M,secondary,undefined,Tallinn
+B1_2020I_003-203,2020,B1,78,0.7800,17,0.68,24,M,secondary specialized/vocational,Estonia,Tallinn
+B1_2020I_003-258,2020,B1,75,0.7500,19,0.76,37,F,higher,Ukraine,Maardu town
+B1_2020I_003-262,2020,B1,65,0.6500,15,0.60,48,F,secondary,undefined,Tallinn
+B1_2020I_003-271,2020,B1,81,0.8100,18,0.72,39,M,primary/basic,undefined,Tallinn
+B1_2020I_003-272,2020,B1,79,0.7900,19,0.76,43,M,higher,undefined,Tallinn
+B1_2020I_003-277,2020,B1,74,0.7400,15,0.60,26,F,higher,Latvia,Tallinn
+B1_2020I_003-278,2020,B1,81,0.8100,19,0.76,50,F,higher,Estonia,Tallinn
+B1_2020I_003-289,2020,B1,76,0.7600,20,0.80,20,F,secondary,Estonia,Tallinn
+B1_2020I_003-354,2020,B1,84,0.8400,19,0.76,50,F,secondary specialized/vocational,Estonia,Tallinn
+B1_2020I_003-355,2020,B1,64,0.6400,16,0.64,60,F,,undefined,Tallinn
+B1_2020I_003-417,2020,B1,87,0.8700,21,0.84,40,F,higher,Russia,Tallinn
+B1_2020I_003-425,2020,B1,85,0.8500,21,0.84,27,F,,Russia,Tallinn
+B1_2020I_003-432,2020,B1,82,0.8200,18,0.72,41,M,secondary specialized/vocational,undefined,Tallinn
+B1_2020I_003-443,2020,B1,75,0.7500,16,0.64,60,M,secondary specialized/vocational,undefined,Loksa town
+B1_2020I_003-445,2020,B1,75,0.7500,18,0.72,30,M,higher,Russia,Tallinn
+B1_2020I_003-447,2020,B1,74,0.7400,16,0.64,31,M,secondary specialized/vocational,Estonia,Tallinn
+B1_2020I_004-025,2020,B1,81,0.8100,19,0.76,48,F,secondary,Spain,Tartu town
+B1_2020II_001-005,2020,B1,90,0.9000,19,0.76,38,M,,Estonia,Tartu town
+B1_2020II_001-035,2020,B1,98,0.9800,23,0.92,14,F,,Ukraine,Tallinn
+B1_2020II_001-118,2020,B1,87,0.8700,19,0.76,24,F,secondary specialized/vocational,undefined,Tallinn
+B1_2020II_001-122,2020,B1,90,0.9000,19,0.76,22,M,secondary specialized/vocational,Estonia,Kohtla-Järve town
+B1_2020II_001-136,2020,B1,81,0.8100,19,0.76,33,F,higher,Russia,Kohila parish
+B1_2020II_001-167,2020,B1,66,0.6600,18,0.72,33,M,,undefined,Lüganuse parish
+B1_2020II_001-191,2020,B1,97,0.9700,24,0.96,42,M,secondary,Russia,Narva town
+B1_2020II_001-212,2020,B1,89,0.8900,20,0.80,45,M,higher,Turkey,Tallinn
+B1_2020II_001-220,2020,B1,75,0.7500,17,0.68,56,F,secondary specialized/vocational,Russia,Tallinn
+B1_2020II_001-232,2020,B1,87,0.8700,23,0.92,51,F,higher,undefined,Maardu town
+B1_2020II_001-244,2020,B1,86,0.8600,21,0.84,30,M,higher,Azerbaijan,Tallinn
+B1_2020II_001-268,2020,B1,66,0.6600,18,0.72,32,F,higher,Russia,Tallinn
+B1_2020II_001-336,2020,B1,79,0.7900,16,0.64,39,F,,Estonia,Tallinn
+B1_2020II_002-001,2020,B1,61,0.6100,16,0.64,23,M,,Estonia,
+B1_2020II_002-008,2020,B1,77,0.7700,19,0.76,46,M,,Estonia,Jõhvi parish
+B1_2020II_002-023,2020,B1,85,0.8500,18,0.72,17,M,secondary,Russia,Tartu town
+B1_2020II_003-004,2020,B1,92,0.9200,18,0.72,41,M,,Estonia,Rae parish
+B1_2020II_003-007,2020,B1,91,0.9100,19,0.76,16,F,,Estonia,Sillamäe town
+B1_2020II_003-017,2020,B1,84,0.8400,16,0.64,22,M,secondary specialized/vocational,Estonia,Narva town
+B1_2020II_003-024,2020,B1,82,0.8200,16,0.64,12,F,primary/basic,Estonia,Narva town
+B1_2020II_003-050,2020,B1,95,0.9500,21,0.84,15,M,primary/basic,Estonia,Narva town
+B1_2020II_003-081,2020,B1,80,0.8000,19,0.76,15,F,,Estonia,Narva town
+B1_2020II_003-089,2020,B1,96,0.9600,23,0.92,42,F,higher,Estonia,Sillamäe town
+B1_2020II_003-098,2020,B1,87,0.8700,21,0.84,35,F,secondary specialized/vocational,undefined,Narva town
+B1_2020II_003-109,2020,B1,64,0.6400,16,0.64,35,F,higher,Estonia,Narva town
+B1_2020II_005-020,2020,B1,97,0.9700,23,0.92,38,F,secondary,undefined,Kohtla-Järve town
+B1_2020II_005-072,2020,B1,87,0.8700,18,0.72,46,F,secondary specialized/vocational,Estonia,Jõhvi parish
+B1_2020II_005-082,2020,B1,86,0.8600,19,0.76,36,F,secondary,Estonia,Kohtla-Järve town
+B1_2020II_005-093,2020,B1,83,0.8300,19,0.76,37,F,secondary specialized/vocational,Estonia,Kohtla-Järve town
+B1_2020II_005-097,2020,B1,88,0.8800,24,0.96,53,F,secondary specialized/vocational,Estonia,Kohtla-Järve town
+B2_2020II_005-002,2020,B2,64,0.6400,15,0.60,25,M,secondary specialized/vocational,Estonia,Narva town
+B2_2020II_005-003,2020,B2,72,0.7200,19,0.76,38,M,higher,Russia,Tallinn
+B2_2020II_005-012,2020,B2,75,0.7500,16,0.64,16,M,primary/basic,Estonia,Narva-Jõesuu town
+B2_2020II_005-020,2020,B2,69,0.6900,15,0.60,30,F,higher,Ukraine,Sillamäe town
+B2_2020II_005-040,2020,B2,89,0.8900,21,0.84,16,F,primary/basic,Estonia,Narva-Jõesuu town
+B2_2020II_005-055,2020,B2,72,0.7200,19,0.76,29,F,secondary,Estonia,Narva town
+B2_2020II_006-001,2020,B2,94,0.9400,25,1.00,30,M,higher,Russia,Tartu town
+B2_2020II_006-006,2020,B2,83,0.8300,19,0.76,41,M,secondary specialized/vocational,Estonia,Tartu town
+B2_2020II_006-010,2020,B2,89,0.8900,18,0.72,17,F,primary/basic,Estonia,Jõhvi parish
+B2_2020II_006-011,2020,B2,82,0.8200,23,0.92,20,M,secondary,Estonia,Narva town
+B2_2020II_006-012,2020,B2,94,0.9400,24,0.96,24,F,higher,PRC,Tartu town
+B2_2020II_007-004,2020,B2,67,0.6700,17,0.68,30,F,higher,Estonia,Tallinn
+B2_2020II_007-024,2020,B2,71,0.7100,16,0.64,27,F,higher,Ukraine,Tallinn
+B2_2020II_007-031,2020,B2,68,0.6800,17,0.68,24,F,primary/basic,Estonia,Tallinn
+B2_2020II_007-035,2020,B2,79,0.7900,20,0.80,38,F,higher,Russia,Pärnu town
+B2_2020II_007-039,2020,B2,78,0.7800,18,0.72,48,F,secondary specialized/vocational,Russia,Tallinn
+B2_2020II_007-061,2020,B2,67,0.6700,17,0.68,34,F,primary/basic,undefined,Rae parish
+B2_2020II_007-069,2020,B2,68,0.6800,17,0.68,44,F,higher,Estonia,Tallinn
+B2_2020II_007-086,2020,B2,76,0.7600,16,0.64,32,F,higher,Estonia,Tallinn
+B2_2020II_007-087,2020,B2,69,0.6900,16,0.64,28,M,higher,Estonia,Tallinn
+B2_2020II_007-090,2020,B2,79,0.7900,16,0.64,45,F,secondary,Estonia,Tallinn
+B2_2020II_007-103,2020,B2,80,0.8000,24,0.96,26,M,higher,Spain,Tallinn
+B2_2020II_007-107,2020,B2,67,0.6700,16,0.64,40,F,secondary specialized/vocational,Russia,Kose parish
+B2_2020II_007-117,2020,B2,67,0.6700,16,0.64,25,F,higher,Russia,Harku parish
+B2_2020II_007-119,2020,B2,66,0.6600,17,0.68,22,F,higher,Belarus,Tallinn
+B2_2020II_007-129,2020,B2,88,0.8800,19,0.76,19,F,secondary,Estonia,Tallinn
+B2_2020II_007-135,2020,B2,69,0.6900,15,0.60,24,F,secondary,Estonia,Maardu town
+B2_2020II_008-011,2020,B2,72,0.7200,18,0.72,46,F,secondary specialized/vocational,,Kohtla-Järve town
+B2_2020II_008-034,2020,B2,75,0.7500,18,0.72,31,F,higher,Estonia,Alutaguse parish
+B2_2020II_008-035,2020,B2,67,0.6700,15,0.60,34,F,higher,Estonia,Toila parish
+B2_2020IV_003-018,2020,B2,71,0.7100,16,0.64,18,F,,Estonia,Tallinn
+B2_2020IV_003-024,2020,B2,72,0.7200,19,0.76,15,F,primary/basic,Estonia,Tallinn
+B2_2020IV_003-025,2020,B2,90,0.9000,18,0.72,45,F,higher,Romania,Tallinn
+B2_2020IV_003-047,2020,B2,79,0.7900,20,0.80,57,M,higher,Estonia,Tallinn
+B2_2020IV_003-049,2020,B2,68,0.6800,15,0.60,38,F,primary/basic,Estonia,Tallinn
+B2_2020IV_003-051,2020,B2,76,0.7600,18,0.72,45,F,secondary specialized/vocational,Estonia,Tallinn
+B2_2020IV_003-058,2020,B2,91,0.9100,21,0.84,37,F,higher,Estonia,Tallinn
+B2_2020IV_003-076,2020,B2,78,0.7800,18,0.72,17,M,primary/basic,Estonia,Tallinn
+B2_2020IV_003-077,2020,B2,87,0.8700,21,0.84,34,F,higher,Estonia,Tallinn
+B2_2020IV_003-082,2020,B2,91,0.9100,18,0.72,39,F,higher,Estonia,Viimsi parish
+B2_2020IV_003-083,2020,B2,92,0.9200,23,0.92,41,F,higher,Russia,Saue parish
+B2_2020IV_003-087,2020,B2,75,0.7500,15,0.60,17,F,primary/basic,Estonia,Tallinn
+B2_2020IV_003-104,2020,B2,78,0.7800,15,0.60,47,F,higher,Estonia,Tallinn
+B2_2020IV_003-111,2020,B2,75,0.7500,17,0.68,33,M,primary/basic,undefined,Tallinn
+B2_2020IV_004-003,2020,B2,77,0.7700,15,0.60,17,F,primary/basic,Estonia,Sillamäe town
+B2_2020IV_004-006,2020,B2,83,0.8300,16,0.64,46,F,higher,Estonia,Narva town
+B2_2020IV_004-009,2020,B2,74,0.7400,23,0.92,18,F,primary/basic,Estonia,Narva town
+B2_2020IV_004-018,2020,B2,72,0.7200,18,0.72,22,M,secondary,Russia,Narva town
+B2_2020IV_004-038,2020,B2,72,0.7200,16,0.64,18,F,primary/basic,Estonia,Narva town
+B2_2020IV_005-010,2020,B2,88,0.8800,19,0.76,41,F,higher,Estonia,Tartu town
+B2_2020IV_006-017,2020,B2,84,0.8400,20,0.80,18,M,primary/basic,Estonia,Kohtla-Järve town
+B2_2020IV_006-019,2020,B2,63,0.6300,15,0.60,32,M,higher,Russia,Kohtla-Järve town
+B2_2020IV_006-023,2020,B2,77,0.7700,19,0.76,16,F,primary/basic,Estonia,Kohtla-Järve town
+B2_2020IV_006-026,2020,B2,63,0.6300,15,0.60,29,F,secondary,Estonia,Kohtla-Järve town
+B2_2020IV_006-034,2020,B2,68,0.6800,20,0.80,54,F,higher,Russia,Kohtla-Järve town
+B2_2020IV_006-038,2020,B2,69,0.6900,19,0.76,17,F,primary/basic,Estonia,Kohtla-Järve town
+B2_2020IV_006-043,2020,B2,63,0.6300,15,0.60,39,M,higher,Estonia,Kohtla-Järve town
+B2_2020IV_006-044,2020,B2,66,0.6600,17,0.68,19,F,secondary specialized/vocational,Estonia,Toila parish
+B2_2020IV_006-045,2020,B2,91,0.9100,19,0.76,17,F,secondary,Estonia,Toila parish
+B2_2020IV_006-057,2020,B2,84,0.8400,16,0.64,16,F,primary/basic,Estonia,Kohtla-Järve town
+C1_2020I_001-018,2020,C1,78,0.7800,22,0.88,38,M,secondary specialized/vocational,Estonia,Kohtla-Järve town
+C1_2020I_002-058,2020,C1,75,0.7500,16,0.64,31,F,higher,Estonia,Tallinn
+C1_2020I_002-072,2020,C1,85,0.8500,21,0.84,37,M,higher,Estonia,Tallinn
+C1_2020I_002-081,2020,C1,86,0.8600,20,0.80,43,F,higher,Latvia,Tallinn
+C1_2020I_002-086,2020,C1,76,0.7600,15,0.60,16,F,primary/basic,Estonia,Tallinn
+C1_2020I_002-089,2020,C1,82,0.8200,16,0.64,31,F,higher,Estonia,Viimsi parish
+C1_2020I_002-096,2020,C1,66,0.6600,15,0.60,38,F,higher,Estonia,Tallinn
+C1_2020I_002-097,2020,C1,70,0.7000,17,0.68,56,F,higher,Estonia,Lääne-Harju parish
+C1_2020I_002-104,2020,C1,79,0.7900,17,0.68,18,F,primary/basic,Estonia,Tallinn
+C1_2020I_002-105,2020,C1,64,0.6400,16,0.64,35,F,higher,Estonia,Tallinn
+C1_2020I_002-106,2020,C1,88,0.8800,19,0.76,44,F,higher,Estonia,Tallinn
+C1_2020I_002-107,2020,C1,87,0.8700,17,0.68,17,F,primary/basic,Estonia,Tallinn
+C1_2020I_002-114,2020,C1,86,0.8600,18,0.72,18,F,secondary,Estonia,Tallinn
+C1_2020I_002-115,2020,C1,85,0.8500,17,0.68,34,M,higher,Estonia,Tallinn
+C1_2020I_003-022,2020,C1,75,0.7500,15,0.60,36,F,higher,Estonia,Narva-Jõesuu town
+C1_2020I_003-061,2020,C1,73,0.7300,16,0.64,19,F,secondary,Estonia,Narva town
+C1_2020I_003-072,2020,C1,77,0.7700,16,0.64,18,F,secondary,Estonia,Sillamäe town
+C1_2020I_003-093,2020,C1,62,0.6200,15,0.60,19,M,primary/basic,Estonia,Narva-Jõesuu town
+C1_2020I_003-107,2020,C1,87,0.8700,20,0.80,19,M,primary/basic,Estonia,Sillamäe town
+C1_2020I_004-011,2020,C1,83,0.8300,21,0.84,17,F,primary/basic,Estonia,Jõhvi parish
+C1_2020I_004-012,2020,C1,94,0.9400,24,0.96,18,M,secondary,Estonia,Tartu town
+C1_2020I_004-017,2020,C1,77,0.7700,16,0.64,22,M,secondary,Estonia,Tartu town
+C1_2020II_002-006,2020,C1,62,0.6200,19,0.76,40,F,secondary,Estonia,Narva town
+C1_2020II_002-011,2020,C1,63,0.6300,15,0.60,22,F,secondary,Estonia,Narva town
+C1_2020II_002-037,2020,C1,66,0.6600,17,0.68,17,M,primary/basic,Estonia,Narva town
+C1_2020II_002-039,2020,C1,61,0.6100,17,0.68,25,F,higher,Estonia,Narva town
+C1_2020II_002-050,2020,C1,69,0.6900,17,0.68,17,F,primary/basic,Estonia,Narva town
+C1_2020II_003-010,2020,C1,78,0.7800,16,0.64,20,F,secondary,Estonia,Tartu town
+C1_2020II_004-012,2020,C1,61,0.6100,15,0.60,25,M,higher,Estonia,Narva town
+C1_2020II_004-018,2020,C1,62,0.6200,15,0.60,39,F,higher,Estonia,Tallinn
+C1_2020II_004-048,2020,C1,73,0.7300,16,0.64,19,F,higher,Russia,Tallinn
+C1_2020II_004-059,2020,C1,62,0.6200,18,0.72,18,M,primary/basic,Russia,Tallinn
+C1_2020II_004-063,2020,C1,73,0.7300,15,0.60,39,F,secondary specialized/vocational,Estonia,Tallinn
+C1_2020II_004-073,2020,C1,82,0.8200,17,0.68,24,F,secondary specialized/vocational,Russia,Tallinn
+C1_2020II_005-001,2020,C1,62,0.6200,15,0.60,31,F,higher,Estonia,Kohtla-Järve town
+C1_2020II_005-009,2020,C1,80,0.8000,19,0.76,46,F,higher,Estonia,Lüganuse parish
+C1_2020II_005-012,2020,C1,70,0.7000,15,0.60,26,F,higher,Estonia,Kohtla-Järve town
+C1_2020II_005-015,2020,C1,61,0.6100,20,0.80,19,F,secondary,Estonia,Lüganuse parish
+C1_2020III_002-028,2020,C1,65,0.6500,15,0.60,23,F,secondary specialized/vocational,Estonia,Tallinn
+C1_2020III_002-074,2020,C1,82,0.8200,17,0.68,18,F,primary/basic,Estonia,Tallinn
+C1_2020III_003-055,2020,C1,83,0.8300,17,0.68,38,F,higher,Estonia,Tallinn
+C1_2020III_002-018,2020,C1,63,0.6300,19,0.76,45,M,higher,Ukraine,Tallinn
+C1_2020III_002-107,2020,C1,85,0.8500,19,0.76,18,M,secondary,Estonia,Maardu town
+C1_2020III_002-027,2020,C1,71,0.7100,20,0.80,23,M,secondary specialized/vocational,Estonia,Tallinn
+C1_2020III_002-083,2020,C1,83,0.8300,21,0.84,18,M,secondary,Estonia,Tallinn
+C1_2020IV_002-001,2020,C1,65,0.6500,15,0.60,18,F,primary/basic,Estonia,Tallinn
+C1_2020IV_002-010,2020,C1,82,0.8200,16,0.64,17,F,primary/basic,Estonia,Loksa town
+C1_2020IV_002-031,2020,C1,88,0.8800,23,0.92,18,F,primary/basic,Estonia,Pärnu town
+C1_2020IV_002-065,2020,C1,92,0.9200,23,0.92,37,F,secondary specialized/vocational,Estonia,Tallinn
+C1_2020IV_002-085,2020,C1,72,0.7200,17,0.68,,F,,Estonia,Tallinn
+C1_2020IV_002-086,2020,C1,73,0.7300,19,0.76,38,F,secondary specialized/vocational,Estonia,Tallinn
+C1_2020IV_002-135,2020,C1,87,0.8700,17,0.68,31,M,higher,Estonia,Rae parish
+C1_2020IV_002-159,2020,C1,61,0.6100,15,0.60,35,F,secondary,Estonia,Tallinn
+C1_2020IV_002-164,2020,C1,69,0.6900,16,0.64,19,F,primary/basic,Estonia,Tallinn
+C1_2020IV_002-166,2020,C1,60,0.6000,15,0.60,43,F,higher,Estonia,Tallinn
+C1_2020IV_002-168,2020,C1,72,0.7200,18,0.72,18,F,secondary,Estonia,Tallinn
+C1_2020IV_002-171,2020,C1,75,0.7500,16,0.64,40,F,higher,Estonia,Tallinn
+C1_2020IV_003-019,2020,C1,92,0.9200,20,0.80,18,M,primary/basic,Estonia,Narva town
+C1_2020IV_003-033,2020,C1,87,0.8700,19,0.76,37,F,higher,Estonia,Narva town
+C1_2020IV_004-008,2020,C1,76,0.7600,18,0.72,18,F,primary/basic,Estonia,Tartu town
+,,,,,,,,,,,
