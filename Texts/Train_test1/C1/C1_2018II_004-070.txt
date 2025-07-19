@@ -1,0 +1,20 @@
+Head kolleegid!
+Hiljuti käisin digipädevuse seminaril ja sealt jäid kõlama mõtted, mis haakusid murede ja ideedega, mida ise varem mõelnud olen ja mida teiega jagada tahan.
+Selge on see, et digipädevus on tänapäeva ühiskonnas toimetuleku eeldus. 
+Te ju teate, et mitte-digilahendused on asutustes ja ettevõtetes endiselt paraleelselt kasutuses, et ka digimaailmas vähem orienteeruvad inimesed pääseksid teenustele ligi, aga nende lahenduste tugi kipub muutuma teisejärguliseks. 
+Kes digi kasutab, toimetab kiiremini ja saab seeläbi eeliseid.
+Näiteks kirjavahetuses, lepingute sõlmimisel, arsti retseptide kasutamisel, firma aruannete ja deklaratsioonide esitamisel. 
+Mulje ja maine on ka möödapääsmatud nähtused - iga firma ja nii mõnigi edasipüüdlik inimene tahab olla esirindes, et muljet avaldada - või siis hoopis teadlikult loobuda sellest, luues endale vanamoelise imago. 
+See viimane on küll pigem erand.
+Mõtlen ja leian, et teatud vanamoelisuse alalhoid, moodsa mugava kõrval, võib olla kasulik.
+Tagavarasüsteemid, mis ei põhine digitehnoloogial, tagavad toimetulekut hädaolukorras. 
+Räägiti seminaril värskest uudisest, et Ameerika Ühendriikide kosmoseagentuur NASA viis hiljuti oma kosmoselaborisse sekstandi - jah, sellise vanaaja metallist navigatsiooniseadme - et harjutada Kuu ja tähtede abil navigeerimist arvutirikke korral. 
+See näide mulle meeldis.
+Loomulikult tuleb mõelda turvariskide maandamisele ka tavapärasemates tingimustes, kus digisüsteemid töötavad ootuspäraselt.
+Riskideks on infoleke, mis võib toimuda telefoni või sülearvuti varguse kaudu, samuti elektroonilise sissetungi või pealtkuulamise kaudu. 
+Tuleks olla teadlik, et lausa vabatahtlikult ei antaks luba kolmandatel osapooltel andmeid kasutada - tähelepanelik tuleks olla sotsiaalvõrgustike ja otsingumootorite tingimuste suhtes. 
+Identiteedivargus on ka oht. 
+Soovitaksin järgmisi meetmeid turvalisuse tõstmiseks:
+ • Võimalusel kasutada 2-astmelist autentimist
+ • Töö ja eraelu arvutis eraldi hoida.
+ • Suhelda palju päriselus ja silmast silma - et säiliks usaldus, mis võib osutuda kuldaväärt päästjaks hädaolukorras.
