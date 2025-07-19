@@ -1,0 +1,19 @@
+Möödunud nädalal võtsin osa digipädevuse seminarist, kus arutati põhjalikult digipädevuse tähtsust ja vajalikkust ning digiseadmete kasutamisega seotud turvariskid.
+Kõigepealt käsitleti seminaril digipädevuse rolli tänapäeva ühiskonnas. 
+Osalejat jõudsid pärast pikka diskusiooni ühisele arvamusele, et tänapäeval on ligi võimatu igapäevase eluga digiseadmeid kasutamata hakkama saada ning sellepärast ongi digipädevus eeldus. 
+Ühest küljest nõustun selle väitega, kuna paljudes ametites näiteks on seda kindlasti vaja ning tööandjad otsivad just selliseid tehniliselt osavaid inimesi. 
+Samuti on palju lihtsam erinevaid digiseadmeid kasutada ning arvuti või telefoni kaudu oma maksud ära maksta, taksot kutsuda või konverentsikõnet pidada. 
+Teisest küljest on selline järeldus ka liiga üldine. 
+Mitte kõigil inimestel ei ole tööl digipädevust vaja. 
+Klienditeenindajad on ikka veel olemas ning igaüks võib oma asju ka "vanamoeliselt" ajada. 
+Seega arvan, et digipädevus ei ole igas olukorras tänapäeval toimetuleku eeldus, kuigi eeldan, et jõuame lähitulevikus ka sellise hetkeni.
+Teine suur teema, mille üle arutlesime pidavalt, oli digiseadmete turvariskid ja nendest hoidumise võimalused. 
+Kõige suurem probleem, mida seminaril välja toodi, oli isiklike andmete turvalisus. 
+Paljud digiseadmed ja "äpid" küsivad kasutajalt vähemalt nime, sünnipäeva ja sugu.
+Selle informatsiooniga ei ole võimalik inimesele palju halba teha, aga tihti on tegemist ka pangakaardi andmete, piltide, isikukoodiga.
+Rõhutati korduvalt seda, et meie kõik peame ettevaatlik olema. 
+Tuleb alati vältida seadmeid, mis pole meie jaoks tuntud. 
+Peaksime alati tutvuda kasutustingimustega, kuigi see võiks olla mõnikord tüütu. 
+Kõik peame olema täiesti teadlik, kuidas meie andmeid kasutataske ja kelleni nad tegelikult jõuavad.
+Veel üks turvarisk on seotud viirustega, mis võivad kahjustada meie telefoni või arvuti või programmi. 
+Nende puhul võib vähemalt endale antiviirusprogrammi üles laadida ja samuti ei peaks kasutama seadmeid, millega me pole varem kokku puutunud.
