@@ -87,8 +87,8 @@ for directory in directories:
 			long_words = text[text.WordLength > 6].Word.count() / var['word_count']
 			var['LIX'] = round(var['sent_length'] + 100 * long_words)
             
-            #counting syllables and polysyllabic words
-            #calculating SMOG and Flesch-Kincaid indices
+			#counting syllables and polysyllabic words
+			#calculating SMOG and Flesch-Kincaid indices
 			syllables = 0
 			polysyllabic_words = 0
 			text_word_list = text['Word'].tolist()
@@ -101,7 +101,7 @@ for directory in directories:
 					polysyllabic_words += 1
 			var['SMOG'] = 1.0430 * math.sqrt(polysyllabic_words * (30 / var['sent_count'])) + 3.1291
 			var['FK'] = 0.39 * (var['word_count'] / var['sent_count']) + \
-                11.8 * (syllables / var['word_count']) - 15.59
+				11.8 * (syllables / var['word_count']) - 15.59
 			var['syllable_count'] = syllables
 			var['polysyllables'] = polysyllabic_words
 
@@ -130,10 +130,10 @@ for directory in directories:
 			verb_lemmas = text[text.Xpos == 'V'].groupby('Lemma').Lemma.count().count()
 			var['CVV'] = verb_lemmas / math.sqrt(2 * verb_count)
 			
-            #lexical density
+			#lexical density
 			var['LD'] = lf.lexical_density(cleaned_text)
 			
-            #part-of-speech proportions
+			#part-of-speech proportions
 			pos_tags = ['A', 'D', 'I', 'J', 'K', 'N', 'P', 'S', 'V']
 			for tag in pos_tags:
 				var[tag] = lf.pos_ratio(text, tag, var['word_count'])
@@ -143,7 +143,7 @@ for directory in directories:
 			for tag in pos_tags:
 				var[tag+'_TTR'] = lf.pos_ttr(text, tag)
 			
-            #average noun abstractness on the scale of 1-3
+			#average noun abstractness on the scale of 1-3
 			noun_data = text[text.Xpos == 'S']
 			abstractness_data = lf.request_abstr_freq(noun_data)
 			ab_sum = 0
@@ -163,7 +163,7 @@ for directory in directories:
 			else:
 				var['S_abstr'] = None
 
-            #proportion of words not among the 1,000-5,000 most frequent words in Estonian
+			#proportion of words not among the 1,000-5,000 most frequent words in Estonian
 			freq_data = lf.request_abstr_freq(text)
 			rare_boundaries = [5000, 4000, 3000, 2000, 1000]
 			freq_boundaries = [220, 301, 447, 747, 1651]
@@ -175,13 +175,13 @@ for directory in directories:
 					var['rare_'+str(rare_boundaries[i])] = None
 
 			
-            #Morphological features of nominal words
+			#Morphological features of nominal words
 			
 			#proportion of compound words
 			var['compounds'] = text[text['Lemma'].str.contains('_', na=False)].Lemma.count()\
 				/ var['word_count']            
             
-            #nominal features
+			#nominal features
 			text_nominals = text[(text.Xpos == 'S')|(text.Xpos == 'A')|(text.Xpos == 'P')|
 				(text.Xpos == 'N')]
 			nominal_count = text_nominals.Word.count()
@@ -194,7 +194,7 @@ for directory in directories:
 				var['n_'+tag.split('=')[1]] = lf.feat_ratio(nominal_feats, tag, nominal_count)
 			var['n_AddIll'] = var['n_Add'] + var['n_Ill']
 			
-            #noun features
+			#noun features
 			noun_count = lf.pos_freq(text, 'S')
 			noun_feats = lf.feats_table(noun_data)
 			var['S_cases'] = lf.case_count(noun_feats)
@@ -202,7 +202,7 @@ for directory in directories:
 				var['S_'+tag.split('=')[1]] = lf.feat_ratio(noun_feats, tag, noun_count)
 			var['S_AddIll'] = var['S_Add'] + var['S_Ill']
 			
-            #adjective features
+			#adjective features
 			adj_count = lf.pos_freq(text, 'A')
 			adj_feats = lf.feats_table(text, 'A')
 			var['A_cases'] = lf.case_count(adj_feats)
@@ -213,7 +213,7 @@ for directory in directories:
 			for tag in adj_tags:
 				var['A_'+tag.split('=')[1]] = lf.feat_ratio(adj_feats, tag, adj_count)
 			
-            #pronoun features
+			#pronoun features
 			pron_count = lf.pos_freq(text, 'P')
 			pron_feats = lf.feats_table(text, 'P')
 			var['P_cases'] = lf.case_count(pron_feats)
