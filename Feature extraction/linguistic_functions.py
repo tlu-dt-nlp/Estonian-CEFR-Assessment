@@ -32,7 +32,7 @@ def pos_ttr(data: pd.DataFrame, pos: str) -> float:
 
 def feats_table(data: pd.DataFrame, pos: str | None = None) -> pd.DataFrame:
 	'''Compile a frequency table of morphological features. 
-    A certain part-of-speech can be given as an optional argument.'''
+	A certain part-of-speech can be given as an optional argument.'''
 	if pos:
 		featsTable = data[data.Xpos == pos].groupby('Feats').Feats.count().to_frame()
 	else:
@@ -43,7 +43,6 @@ def feats_table(data: pd.DataFrame, pos: str | None = None) -> pd.DataFrame:
 
 def feat_ratio(data: pd.DataFrame, feature: str, wordCount: int) -> float:
 	'''Calculate the proportion of a given morphological feature.'''
-	#if len(data.index) > 0:
 	if wordCount > 0:
 		featRatio = data[data['Feats'].str.contains(feature)].Freq.sum() / wordCount
 	else:
@@ -80,9 +79,9 @@ def lexical_density(data: pd.DataFrame) -> float:
 
 def request_abstr_freq(data: pd.DataFrame) -> dict[str, int] | None:
 	'''Make a request to the API of the Speed reading software of University of Tartu 
-    to analyze noun abstractness and rareness of words. 
-    The abstractness rating is based on a 3-point scale (see Mikk et al., 2003: http://hdl.handle.net/10062/50110). 
-    Word frequency data is based on the balanced subcorpus of the Estonian Reference Corpus.'''
+	to analyze noun abstractness and rareness of words. 
+	The abstractness rating is based on a 3-point scale (see Mikk et al., 2003: http://hdl.handle.net/10062/50110). 
+	Word frequency data is based on the balanced subcorpus of the Estonian Reference Corpus.'''
 	#Cleaning text lemmas and creating a lemma list for the request.
 	chars_to_remove = ['_', '=', '\(', ')', '"', '&']
 	for char in chars_to_remove:
@@ -102,7 +101,7 @@ def request_abstr_freq(data: pd.DataFrame) -> dict[str, int] | None:
 
 def rare_ratio(data: dict[str, int], freqBoundary: int, textLength: int) -> float:
 	'''Calculate the proportion of words that have a smaller frequency in the balanced corpus than the given threshold.
-    The input data is based on the POST request to https://kiirlugemine.keeleressursid.ee/api/analyze.'''
+	The input data is based on the POST request to https://kiirlugemine.keeleressursid.ee/api/analyze.'''
 	rareCount = 0
 	for word in data['wordAnalysis']:
 		lemma = word['lemmas'][0]
