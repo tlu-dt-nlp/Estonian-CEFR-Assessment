@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from sklearn.feature_selection import SelectKBest
-#from sklearn.feature_selection import SequentialFeatureSelector
 from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.neural_network import MLPClassifier
@@ -22,12 +21,12 @@ def get_test_labels_by_type(test_set: pd.DataFrame, level: str, text_type: str) 
 #List of features used for classification, taken from 'feat_lists.txt'
 feats_selection = ['n_cases', 'n_Nom', 'n_Tra', 'n_Plur', 'S_cases', 'S_Nom', 'S_All', 
     'S_Tra', 'S_Plur', 'A_cases', 'A_Gen', 'A_Par', 'A_Ine', 'A_Ela', 'A_Tra', 'A_Sing', 
-	'A_Plur', 'P_cases', 'P_Ine', 'P_Ela', 'P_Com', 'P_Prs', 'P_Dem', 'P_IntRel', 
+    'A_Plur', 'P_cases', 'P_Ine', 'P_Ela', 'P_Com', 'P_Prs', 'P_Dem', 'P_IntRel', 
     'V_Fin', 'V_Sing', 'V_Neg', 'V_Conv', 'K_Post', 'D', 'J', 'S_Prop', 'lemma_count', 
-	'RTTR', 'CVV', 'D_TTR', 'S_abstr', 'rare_5000', 'MTLD', 'word_count', 'sent_count', 
-	'word_length', 'sent_length', 'SMOG', 'syll_count', 'spell_error_ratio', 
-	'avg_spell_error_ratio', 'error_word_ratio', 'errors_per_word', 'errors_per_sent', 
-	'avg_error_word_ratio']
+    'RTTR', 'CVV', 'D_TTR', 'S_abstr', 'rare_5000', 'MTLD', 'word_count', 'sent_count', 
+    'word_length', 'sent_length', 'SMOG', 'syll_count', 'spell_error_ratio', 
+    'avg_spell_error_ratio', 'error_word_ratio', 'errors_per_word', 'errors_per_sent', 
+    'avg_error_word_ratio']
 feats = feats_selection
 
 #The training set consists of 600 texts, stratified by proficiency level.
@@ -35,8 +34,6 @@ feats = feats_selection
 #stratified by proficiency level and text type within each level.
 training_set = pd.read_csv('Datasets/train_split.csv')
 test_set = pd.read_csv('Datasets/test_split.csv')
-#test_set = pd.read_csv('test_exam2.csv')
-#test_set = test_set[(test_set.text_type == 'descrnar')|(test_set.text_type =='arg')|(test_set.text_type =='fletter')]
 
 #Arrays containing the proficiency level labels for training and testing the classifier
 y_train = training_set['prof_level'].to_numpy().ravel()
@@ -68,14 +65,6 @@ X_test_scaled = scaler.transform(X_test)
 selector = SelectKBest(k=23).fit(X_train_scaled, y_train)
 X_train_selected = selector.transform(X_train_scaled)
 X_test_selected = selector.transform(X_test_scaled)
-#X_train_selected = X_train_scaled
-#X_test_selected = X_test_scaled
-
-#classifier = MLPClassifier(max_iter=10000, random_state=0)
-#sfs = SequentialFeatureSelector(classifier, n_features_to_select = 2)
-#selector = sfs.fit(X_train_scaled, y_train)
-#X_train_selected = selector.transform(X_train_scaled)
-#X_test_selected = selector.transform(X_test_scaled)
 
 #Retrieving selected feature names and scores
 feature_indices = selector.get_support(indices=True)
