@@ -14,12 +14,12 @@ from sklearn.metrics import classification_report
 #List of features used for classification, taken from 'feat_lists.txt'
 feats_selection = ['n_cases', 'n_Nom', 'n_Tra', 'n_Plur', 'S_cases', 'S_Nom', 'S_All', 
     'S_Tra', 'S_Plur', 'A_cases', 'A_Gen', 'A_Par', 'A_Ine', 'A_Ela', 'A_Tra', 'A_Sing', 
-	'A_Plur', 'P_cases', 'P_Ine', 'P_Ela', 'P_Com', 'P_Prs', 'P_Dem', 'P_IntRel', 
+    'A_Plur', 'P_cases', 'P_Ine', 'P_Ela', 'P_Com', 'P_Prs', 'P_Dem', 'P_IntRel', 
     'V_Fin', 'V_Sing', 'V_Neg', 'V_Conv', 'K_Post', 'D', 'J', 'S_Prop', 'lemma_count', 
-	'RTTR', 'CVV', 'D_TTR', 'S_abstr', 'rare_5000', 'MTLD', 'word_count', 'sent_count', 
-	'word_length', 'sent_length', 'SMOG', 'syll_count', 'spell_error_ratio', 
-	'avg_spell_error_ratio', 'error_word_ratio', 'errors_per_word', 'errors_per_sent', 
-	'avg_error_word_ratio']
+    'RTTR', 'CVV', 'D_TTR', 'S_abstr', 'rare_5000', 'MTLD', 'word_count', 'sent_count', 
+    'word_length', 'sent_length', 'SMOG', 'syll_count', 'spell_error_ratio', 
+    'avg_spell_error_ratio', 'error_word_ratio', 'errors_per_word', 'errors_per_sent', 
+    'avg_error_word_ratio']
 feats = feats_selection
 
 #Lists of classifiers and classifier names
@@ -29,7 +29,7 @@ classifiers = [
     SVC(),
     RandomForestClassifier(random_state=0),
     MLPClassifier(max_iter=10000, random_state=0),
-	LinearDiscriminantAnalysis(),
+    LinearDiscriminantAnalysis(),
     QuadraticDiscriminantAnalysis()
 ]
 
@@ -61,6 +61,7 @@ with open('Classification/cv_results_kbest.txt', 'a') as output_f:
     for n_features in range(5, 25):
         output_f.write('\nNumber of features in model: ' + str(n_features) + '\n')
         for name, clf in zip(clf_names, classifiers):
+
             #10-fold cross-validation on the training set
             X_train_shuffled, y_train_shuffled = shuffle(X_train, y_train, random_state=0)
             pipeline = Pipeline([('scaler', StandardScaler()), 
@@ -75,6 +76,7 @@ with open('Classification/cv_results_kbest.txt', 'a') as output_f:
             precision_scores = cross_val_score(pipeline, X_train_shuffled, y_train_shuffled,    cv=10, scoring='precision_macro')
             recall_scores = cross_val_score(pipeline, X_train_shuffled, y_train_shuffled, 
                 cv=10, scoring='recall_macro')
+
             #Writing the results to the file
             output_f.write('\n' + name + ':')
             output_f.write('\n10-fold cross validation scores: ' + str(cross_val_results))
