@@ -20,7 +20,7 @@ def get_test_labels_by_type(test_set: pd.DataFrame, level: str, text_type: str) 
 
 #List of features used for classification, taken from 'feat_lists.txt'
 surf_feats_selection = ['word_count', 'sent_count', 'word_length', 'sent_length', 'SMOG',
-	'syll_count']
+    'syll_count']
 feats = surf_feats_selection
 
 #The training set consists of 600 texts, stratified by proficiency level.
@@ -68,7 +68,7 @@ selector = sfs.fit(X_train_scaled, y_train)
 X_train_selected = selector.transform(X_train_scaled)
 X_test_selected = selector.transform(X_test_scaled)
 
-#Retrieving selected feature names and scores
+#Retrieving selected feature names
 feature_indices = selector.get_support(indices=True)
 selected_features_df = X_train_df.iloc[:,feature_indices]
 selected_features = list(selected_features_df.columns)
