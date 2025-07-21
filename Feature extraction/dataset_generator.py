@@ -52,7 +52,7 @@ for directory in directories:
 				elif var['prof_level'] == 'B2':
 					genres_by_exam = {
 						'personal letter': ['2018I', '2018III'],
-						'formal letter': ['2018II', '2018IV'],
+						'semiformal letter': ['2018II', '2018IV'],
 						'argumentative writing': ['2020II', '2020IV']
 					}
 				for key, values in genres_by_exam.items():
@@ -68,7 +68,7 @@ for directory in directories:
 				#or var['prof_level'] == 'C1':
 					#var['text_type'] = 'argumentative writing'
 			#elif var['prof_level'] == 'B2' and directory.endswith('semiformal_letters'):
-					#var['text_type'] = 'formal letter'
+					#var['text_type'] = 'semiformal letter'
             
 
 			#Surface features
