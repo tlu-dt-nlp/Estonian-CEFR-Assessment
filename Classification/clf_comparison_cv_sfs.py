@@ -29,7 +29,7 @@ classifiers = [
     SVC(),
     RandomForestClassifier(random_state=0),
     MLPClassifier(max_iter=10000, random_state=0),
-	LinearDiscriminantAnalysis(),
+    LinearDiscriminantAnalysis(),
     QuadraticDiscriminantAnalysis()
 ]
 
@@ -61,6 +61,7 @@ with open('Classification/cv_results_sfs.txt', 'a') as output_f:
     for n_features in range(2, 7):
         output_f.write('\nNumber of features in model: ' + str(n_features) + '\n')
         for name, clf in zip(clf_names, classifiers):
+
             #10-fold cross-validation on the training set
             X_train_shuffled, y_train_shuffled = shuffle(X_train, y_train, random_state=0)
             pipeline = Pipeline([('scaler', StandardScaler()), 
@@ -76,6 +77,7 @@ with open('Classification/cv_results_sfs.txt', 'a') as output_f:
                 cv=10, scoring='precision_macro')
             recall_scores = cross_val_score(pipeline, X_train_shuffled, y_train_shuffled, 
                 cv=10, scoring='recall_macro')
+
             #Writing the results to the file
             output_f.write('\n' + name + ':')
             output_f.write('\n10-fold cross validation scores: ' + str(cross_val_results))
