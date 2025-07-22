@@ -61,7 +61,7 @@ lex_feats_selection = ['lemma_count', 'RTTR', 'MTLD', 'CVV', 'D_TTR', 'S_abstr',
 
 #List of all surface features in the dataset
 surf_feats = ['word_count', 'sent_count', 'word_length', 'sent_length', 'LIX', 'SMOG',
-    'F-K', 'poly_ratio', 'syll_count']
+    'FK', 'poly_ratio', 'syll_count']
 
 #List of surface features presumed relevant predictors of proficiency level
 surf_feats_selection = ['word_count', 'sent_count', 'word_length', 'sent_length', 'SMOG',
