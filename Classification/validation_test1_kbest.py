@@ -72,8 +72,7 @@ selected_features_df = X_train_df.iloc[:,feature_indices]
 selected_features = list(selected_features_df.columns)
 feature_scores = selector.scores_[feature_indices]
 
-#Separate test set matrices for within-level validation
-#and comparing the classification of different text types
+#Separate test set matrices for comparing the classification of different text types
 X_test_A2_descr_nar = X_test_selected[:15]
 X_test_A2_pers_letter = X_test_selected[15:30]
 
