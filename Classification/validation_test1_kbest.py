@@ -48,7 +48,7 @@ y_test_B1_pers_letter = get_test_labels_by_type(test_set, 'B1', 'personal letter
 
 y_test_B2_arg = get_test_labels_by_type(test_set, 'B2', 'argumentative writing')
 y_test_B2_pers_letter = get_test_labels_by_type(test_set, 'B2', 'personal letter')
-y_test_B2_form_letter = get_test_labels_by_type(test_set, 'B2', 'formal letter')
+y_test_B2_form_letter = get_test_labels_by_type(test_set, 'B2', 'semiformal letter')
 
 #Dataframes and matrices containing feature values
 X_train_df = training_set[feats]
