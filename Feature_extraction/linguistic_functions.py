@@ -66,7 +66,7 @@ def lexical_density(data: pd.DataFrame) -> float:
 	textLemmas = data['Lemma'].tolist()
 	#Comparing text lemmas to the list of Estonian stopwords for lemmatized text
 	#(Uiboaed 2018, https://datadoi.ee/handle/33/78)
-	stopLemmas = pd.read_csv('Feature extraction/estonian-stopwords-lemmas.txt')
+	stopLemmas = pd.read_csv('Feature_extraction/estonian-stopwords-lemmas.txt')
 	stopLemmas = set(stopLemmas['Stoplemma'].tolist())
 	functionWords = 0
 	for i in range(len(textLemmas)):
@@ -144,3 +144,4 @@ def syllabify(text: str) -> list[str]:
 	response = requests.post("https://elle.tlu.ee/api/texts/silbid/", json={"tekst":text}, headers={"Content-Type": "application/json; charset=utf-8"})
 	word_list = json.loads(response.text)
 	return word_list
+
