@@ -5,7 +5,7 @@ import stanza_tagger as st
 import linguistic_functions as lf
 
 #Reading the list of variable labels
-with open('Feature extraction/variable_labels.txt', 'r') as var_list:
+with open('Feature_extraction/variable_labels.txt', 'r') as var_list:
     var_labels = var_list.read().splitlines()
 
 #Creating a list to store the data rows
@@ -264,5 +264,5 @@ for directory in directories:
 			dataset.append(datarow+'\n')
 
 #Writing the data into a csv-file
-with open('Feature extraction/dataset.csv', 'w') as data_file:
+with open('Feature_extraction/dataset.csv', 'w') as data_file:
 	data_file.writelines(dataset)
