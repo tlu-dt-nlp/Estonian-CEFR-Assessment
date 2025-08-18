@@ -1,0 +1,2 @@
+huggingface: Jaagup/errors_corrections_min3
+model_bin: models/spelling/correction_list.csv

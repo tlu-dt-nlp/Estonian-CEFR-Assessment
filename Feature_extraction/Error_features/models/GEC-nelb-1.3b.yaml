@@ -1,0 +1,10 @@
+huggingface: tartuNLP/en-et-de-cs-nelb 
+checkpoint: models/grammar/en-et-de-cs-nelb/checkpoint_1.3b_half.pt
+dict_dir: models/grammar/en-et-de-cs-nelb/dicts/
+sentencepiece_dir: models/grammar/en-et-de-cs-nelb/sentencepiece/
+sentencepiece_prefix: flores200_sacrebleu_tokenizer_spm
+truecase_model: no
+source_language: est_Latn
+target_language: est_Latn
+task: translation_multi_simple_epoch
+type: nelb
