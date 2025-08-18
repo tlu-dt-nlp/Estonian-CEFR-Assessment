@@ -25,7 +25,7 @@ multi_corrector.add_corrector(correction_list)
 multi_corrector.add_corrector(speller)
 
 #Calculating error features and saving feature values
-with open('Feature_extraction/Error_features/error_data.txt', 'w') as output:
+with open('Feature_extraction/Error_features/error_data.csv', 'w') as output:
   output.write('file_name,spell_word_ratio,spell_sent_ratio,spell_errors_per_sent,\
     avg_spell_word_ratio,error_word_ratio,error_sent_ratio,errors_per_word,errors_per_sent,\
     avg_error_word_ratio\n')
@@ -103,4 +103,5 @@ with open('Feature_extraction/Error_features/error_data.txt', 'w') as output:
             str(spell_sent_ratio) + ',' + str(spell_errors_per_sent) + ',' +
             str(avg_spell_word_ratio) + ',' + str(error_word_ratio) + ',' +
             str(error_sent_ratio) + ',' + str(errors_per_word) + ',' +
+
             str(errors_per_sent) + ',' + str(avg_error_word_ratio) + '\n')
