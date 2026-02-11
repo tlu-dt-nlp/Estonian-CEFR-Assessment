@@ -1,6 +1,7 @@
 import warnings
 from sklearn.exceptions import FitFailedWarning
 import pandas as pd
+import feat_lists
 from sklearn.preprocessing import StandardScaler
 from sklearn.feature_selection import SequentialFeatureSelector
 from sklearn.svm import SVC
@@ -17,10 +18,8 @@ warnings.filterwarnings('ignore', category=FitFailedWarning)
 warnings.filterwarnings('ignore', category=UserWarning)
 warnings.filterwarnings('ignore', category=RuntimeWarning)
 
-#List of features used for classification, taken from 'feat_lists.txt'
-surf_feats_selection = ['word_count', 'sent_count', 'word_length', 'sent_length', 'SMOG',
-	'syll_count']
-feats = surf_feats_selection
+#List of features used for classification, imported from 'feat_lists.py'
+feats = feat_lists.surf_feats_selection
 
 #Lists of classifiers and classifier names
 classifiers = [
@@ -91,3 +90,4 @@ with open('Classification/cv_results_sfs.txt', 'a') as output_f:
                 ' (SD: ' + str(recall_scores.std()) + ')\n')
             #Report of the predictions made for the test splits
             output_f.write(str(classification_report(y_train_shuffled, preds)))
+
