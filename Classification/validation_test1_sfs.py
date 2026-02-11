@@ -10,6 +10,7 @@ from sklearn.linear_model import LogisticRegression, LogisticRegressionCV
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis, QuadraticDiscriminantAnalysis
 from sklearn.metrics import classification_report
 from sklearn.metrics import ConfusionMatrixDisplay
+import feat_lists
 
 def get_test_labels_by_type(test_set: pd.DataFrame, level: str, text_type: str) -> np.ndarray:
     '''Create an array of target labels to measure recall by text type at a given level.'''
@@ -18,10 +19,8 @@ def get_test_labels_by_type(test_set: pd.DataFrame, level: str, text_type: str) 
     y_test_type = type_set['prof_level'].to_numpy().ravel()
     return y_test_type
 
-#List of features used for classification, taken from 'feat_lists.txt'
-surf_feats_selection = ['word_count', 'sent_count', 'word_length', 'sent_length', 'SMOG',
-    'syll_count']
-feats = surf_feats_selection
+#List of features used for classification, imported from 'feat_lists.py'
+feats = feat_lists.surf_feats_selection
 
 #The training set consists of 600 texts, stratified by proficiency level.
 #120 texts have been randomly selected for the test set,
@@ -124,3 +123,4 @@ ConfusionMatrixDisplay.from_predictions(y_test, y_pred, cmap='Blues')
 plt.xlabel('Predicted level')
 plt.ylabel('True level')
 plt.savefig('Classification/confusion_matrix.png')
+
