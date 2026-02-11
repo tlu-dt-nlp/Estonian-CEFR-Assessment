@@ -19,7 +19,7 @@ def get_test_labels_by_type(test_set: pd.DataFrame, level: str, text_type: str) 
     y_test_type = type_set['prof_level'].to_numpy().ravel()
     return y_test_type
 
-#List of features selected for classification
+#Specific list of features selected for classification
 feats = ['n_cases', 'n_Tra', 'n_Plur', 'S_cases', 'S_Plur', 'A_cases', 'P_cases', 
     'P_Prs', 'P_Dem', 'P_IntRel', 'V_Fin', 'lemma_count', 'RTTR', 'CVV', 'S_abstr', 
     'MTLD', 'word_count', 'sent_count', 'word_length', 'sent_length', 'SMOG', 
