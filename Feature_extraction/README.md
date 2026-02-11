@@ -1,0 +1,1 @@
+The code for running the correction models is in the `Error_features` subfolder. The correction output data needs to be merged with the output of `dataset_generator.py`, using the `dataset_merger.py` script.
