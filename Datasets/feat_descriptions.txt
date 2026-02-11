@@ -1,0 +1,178 @@
+Linguistic features extracted from the texts
+
+
+Surface features:
+
+"word_count" - number of words
+"sent_count" - number of sentences
+"word_length" - mean word length in characters
+"sent_length" - mean sentence length in words
+"LIX" - LIX complexity index
+"SMOG" - SMOG complexity index
+"FK" - Flesch-Kincaid Reading Ease index
+"syllable_count" - number of syllables 
+"polysyllables" - number of words with three of more syllables
+
+
+Lexical features:
+
+"lemma_count" - number of unique words (lemmas)
+"TTR" - type-token ratio (lemmas are considered as types)
+"RTTR" - root type-token ratio (Guiraud index)
+"Uber" - Uber index of lexical diversity
+"Maas" - Maas index of lexical diversity
+"MTLD" - Measure of Textual Lexical Diversity
+"CVV" - corrected verb variation
+"A_TTR" - adjective TTR
+"D_TTR" - adverb TTR
+"I_TTR" - interjection TTR
+"J_TTR" - conjunction TTR
+"K_TTR" - adposition TTR
+"N_TTR" - numeral TTR
+"P_TTR" - pronoun TTR
+"S_TTR" - noun TTR
+"V_TTR" - verb TTR
+
+"S_abstr" - average noun abstractness on the scale 1-3
+"rare_5000" - ratio of vocabulary not among 5,000 most frequent Estonian words
+"rare_4000" - ratio of vocabulary not among 4,000 most frequent Estonian words
+"rare_3000" - ratio of vocabulary not among 3,000 most frequent Estonian words
+"rare_2000" - ratio of vocabulary not among 2,000 most frequent Estonian words
+"rare_1000" - ratio of vocabulary not among 1,000 most frequent Estonian words
+"LD" - lexical density (the proportion of lexical words)
+
+
+Morphological features:
+
+"A" - ratio of adjectives
+"D" - ratio of adverbs
+"I" - ratio of interjections
+"J" - ratio of conjunctions
+"K" - ratio of adpositions
+"N" - ratio of numerals
+"P" - ratio of pronouns
+"S" - ratio of nouns (substantives)
+"S_Prop" - ratio of proper nouns
+"V" - ratio of verbs
+"compounds" - ratio of compound words
+
+"n_cases" - number of case forms used in text (considering all nominal words)
+"n_Nom" - ratio of nominative case forms
+"n_Gen" - ratio of genitive case forms
+"n_Par" - ratio of partitive case forms
+"n_Add" - ratio of additive (short illative) case forms
+"n_Ill" - ratio of illative case forms 
+"n_AddIll" - ratio of illative and additive case forms
+"n_Ine" - ratio of inessive case forms
+"n_Ela" - ratio of elative case forms
+"n_All" - ratio of allative case forms
+"n_Ade" - ratio of adessive case forms
+"n_Abl" - ratio of ablative case forms
+"n_Tra" - ratio of translative case forms
+"n_Ter" - ratio of terminative case forms
+"n_Ess" - ratio of essive case forms
+"n_Abe" - ratio of abessive case forms
+"n_Com" - ratio of comitative case forms
+"n_Sing" - ratio of singular forms among nominal words
+"n_Plur" - ratio of plural forms among nominal words
+
+"S_cases" - number of noun case forms
+"S_Nom" - ratio of nominative noun forms
+"S_Gen" - ratio of genitive noun forms
+"S_Par - ratio of partitive noun forms
+"S_Add" - ratio of additive noun forms
+"S_Ill" - ratio of illative noun forms
+"S_AddIll" - ratio of illative and additive noun forms
+"S_Ine" - ratio of inessive noun forms
+"S_Ela" - ratio of elative noun forms
+"S_All" - ratio of allative noun forms
+"S_Ade" - ratio of adessive noun forms
+"S_Abl" - ratio of ablative noun forms
+"S_Tra" - ratio of translative noun forms
+"S_Ter" - ratio of terminative noun forms
+"S_Ess" - ratio of essive noun forms
+"S_Abe" - ratio of abessive noun forms
+"S_Com" - ratio of comitative noun forms
+"S_Sing" - ratio of singular noun forms
+"S_Plur" - ratio of plural noun forms
+
+"A_cases" - number of adjective case forms
+"A_Nom" - ratio of nominative adjective forms
+"A_Gen" - ratio of genitive adjective forms
+"A_Par" - ratio of partitive adjective forms
+"A_Ill" - ratio of illative adjective forms
+"A_Ine" - ratio of inessive adjective forms
+"A_Ela" - ratio of elative adjective forms
+"A_All" - ratio of allative adjective forms
+"A_Ade" - ratio of adessive adjective forms
+"A_Abl" - ratio of ablative adjective forms
+"A_Tra" - ratio of translative adjective forms
+"A_Ter" - ratio of terminative adjective forms
+"A_Ess" - ratio of essive adjective forms
+"A_Abe" - ratio of abessive adjective forms
+"A_Com" - ratio of comitative adjective forms
+"A_Sing" - ratio of singular adjective forms
+"A_Plur" - ratio of plural adjective forms
+"A_Pos" - ratio of positive adjective forms
+"A_Cmp" - ratio of comparative adjective forms
+"A_Sup" - ratio of superlative adjective forms
+
+"P_cases" - number of pronoun case forms
+"P_Nom" - ratio of nominative pronoun forms
+"P_Gen" - ratio of genitive pronoun forms
+"P_Par" - ratio of partitive pronoun forms
+"P_Ill" - ratio of illative pronoun forms
+"P_Ine" - ratio of inessive pronoun forms
+"P_Ela" - ratio of elative pronoun forms
+"P_All" - ratio of allative pronoun forms
+"P_Ade" - ratio of adessive pronoun forms
+"P_Abl" - ratio of ablative pronoun forms
+"P_Tra" - ratio of translative pronoun forms
+"P_Ter" - ratio of terminative pronoun forms
+"P_Ess" - ratio of essive pronoun forms
+"P_Abe" - ratio of abessive pronoun forms
+"P_Com" - ratio of comitative pronoun forms 
+"P_Sing" - ratio of singular pronoun forms
+"P_Plur" - ratio of plural pronoun forms
+"P_Prs" - ratio of personal pronouns
+"P_Reflex" - ratio of reflexive pronouns
+"P_Dem" - ratio of demonstrative pronouns
+"P_Ind" - ratio of indefinite pronouns
+"P_IntRel" - ratio of interrogative-relative pronouns
+"P_Rcp" - ratio of reciprocal pronouns
+
+"V_Fin" - ratio of finite verb forms
+"V_Ind" - ratio of indicative verb forms
+"V_Cnd" - ratio of conditional verb forms
+"V_Imp" - ratio of imperative verb forms
+"V_Prs1" - ratio of 1st person verb forms
+"V_Prs2" - ratio of 2nd person verb forms
+"V_Prs3" - ratio of 3rd person verb forms
+"V_Pres" - ratio of present tense verb forms
+"V_Past" - ratio of past tense verb forms
+"V_Sing" - ratio of singular verb forms
+"V_Plur" - ratio of plural verb forms
+"V_Neg" - ratio of negative verb forms (includes both finite verbs and negation particles)
+"V_Pass" - ratio of passive verb forms
+"V_NonFin" - ratio of all nonfinite verb forms
+"V_Inf" - ratio of infinitive verb forms
+"V_Part" - ratio of participle verb forms
+"V_Conv" - ratio of gerund verb forms
+
+"J_Crd" - ratio of coordinating conjunctions among conjunctions
+"J_Sub" - ratio of subordinating conjunctions among conjunctions
+"K_Prep" - ratio of prepositions among adpositions
+"K_Post" - ratio of postpositions among adpositions
+
+
+Error features:
+
+"spell_error_ratio" - ratio of spell-corrected words
+"spell_error_sent_ratio" - ratio of sentences with a spelling correction
+"spell_errors_per_sent" - number of spelling corrections per sentence 
+"avg_spell_error_ratio" - average ratio of spell-corrected words in a sentence
+"errors_per_word" - number of grammar corrections per word
+"errors_per_sent" - number of grammar corrections per sentence
+"error_word_ratio" - ratio of grammar-corrected words, i.e., words occurring within corrected text spans
+"error_sent_ratio" - ratio of grammar-corrected sentences
+"avg_error_word_ratio" - average ratio of grammar-corrected words in a sentence
