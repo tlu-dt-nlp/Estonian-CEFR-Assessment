@@ -1,4 +1,5 @@
 import pandas as pd
+import feat_lists
 from sklearn.preprocessing import StandardScaler
 from sklearn.feature_selection import SelectKBest
 from sklearn.svm import SVC
@@ -11,16 +12,8 @@ from sklearn.pipeline import Pipeline
 from sklearn.model_selection import cross_val_score, cross_val_predict
 from sklearn.metrics import classification_report
 
-#List of features used for classification, taken from 'feat_lists.txt'
-feats_selection = ['n_cases', 'n_Nom', 'n_Tra', 'n_Plur', 'S_cases', 'S_Nom', 'S_All', 
-    'S_Tra', 'S_Plur', 'A_cases', 'A_Gen', 'A_Par', 'A_Ine', 'A_Ela', 'A_Tra', 'A_Sing', 
-    'A_Plur', 'P_cases', 'P_Ine', 'P_Ela', 'P_Com', 'P_Prs', 'P_Dem', 'P_IntRel', 
-    'V_Fin', 'V_Sing', 'V_Neg', 'V_Conv', 'K_Post', 'D', 'J', 'S_Prop', 'lemma_count', 
-    'RTTR', 'CVV', 'D_TTR', 'S_abstr', 'rare_5000', 'MTLD', 'word_count', 'sent_count', 
-    'word_length', 'sent_length', 'SMOG', 'syll_count', 'spell_word_ratio', 
-    'avg_spell_word_ratio', 'error_word_ratio', 'errors_per_word', 'errors_per_sent', 
-    'avg_error_word_ratio']
-feats = feats_selection
+#List of features used for classification, imported from 'feat_lists.py'
+feats = feat_lists.feats_selection
 
 #Lists of classifiers and classifier names
 classifiers = [
@@ -90,4 +83,5 @@ with open('Classification/cv_results_kbest.txt', 'a') as output_f:
                 ' (SD: ' + str(recall_scores.std()) + ')\n')
             #Report of the predictions made for the test splits
             output_f.write(str(classification_report(y_train_shuffled, preds)))
+
 
