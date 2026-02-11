@@ -1,7 +1,6 @@
 import warnings
 from sklearn.exceptions import FitFailedWarning
 import pandas as pd
-import feat_lists
 from sklearn.preprocessing import StandardScaler
 from sklearn.feature_selection import SequentialFeatureSelector
 from sklearn.svm import SVC
@@ -13,6 +12,7 @@ from sklearn.utils import shuffle
 from sklearn.pipeline import Pipeline
 from sklearn.model_selection import cross_val_score, cross_val_predict
 from sklearn.metrics import classification_report
+import feat_lists
 
 warnings.filterwarnings('ignore', category=FitFailedWarning)
 warnings.filterwarnings('ignore', category=UserWarning)
@@ -90,4 +90,5 @@ with open('Classification/cv_results_sfs.txt', 'a') as output_f:
                 ' (SD: ' + str(recall_scores.std()) + ')\n')
             #Report of the predictions made for the test splits
             output_f.write(str(classification_report(y_train_shuffled, preds)))
+
 
