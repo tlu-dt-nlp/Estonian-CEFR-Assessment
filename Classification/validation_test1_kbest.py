@@ -10,6 +10,7 @@ from sklearn.linear_model import LogisticRegression, LogisticRegressionCV
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis, QuadraticDiscriminantAnalysis
 from sklearn.metrics import classification_report
 from sklearn.metrics import ConfusionMatrixDisplay
+import feat_lists
 
 def get_test_labels_by_type(test_set: pd.DataFrame, level: str, text_type: str) -> np.ndarray:
     '''Create an array of target labels to measure recall by text type at a given level.'''
@@ -18,16 +19,8 @@ def get_test_labels_by_type(test_set: pd.DataFrame, level: str, text_type: str) 
     y_test_type = type_set['prof_level'].to_numpy().ravel()
     return y_test_type
 
-#List of features used for classification, taken from 'feat_lists.txt'
-feats_selection = ['n_cases', 'n_Nom', 'n_Tra', 'n_Plur', 'S_cases', 'S_Nom', 'S_All', 
-    'S_Tra', 'S_Plur', 'A_cases', 'A_Gen', 'A_Par', 'A_Ine', 'A_Ela', 'A_Tra', 'A_Sing', 
-    'A_Plur', 'P_cases', 'P_Ine', 'P_Ela', 'P_Com', 'P_Prs', 'P_Dem', 'P_IntRel', 
-    'V_Fin', 'V_Sing', 'V_Neg', 'V_Conv', 'K_Post', 'D', 'J', 'S_Prop', 'lemma_count', 
-    'RTTR', 'CVV', 'D_TTR', 'S_abstr', 'rare_5000', 'MTLD', 'word_count', 'sent_count', 
-    'word_length', 'sent_length', 'SMOG', 'syll_count', 'spell_word_ratio', 
-    'avg_spell_word_ratio', 'error_word_ratio', 'errors_per_word', 'errors_per_sent', 
-    'avg_error_word_ratio']
-feats = feats_selection
+#List of features used for classification, imported from 'feat_lists.py'
+feats = feat_lists.feats_selection
 
 #The training set consists of 600 texts, stratified by proficiency level.
 #120 texts have been randomly selected for the test set,
@@ -131,4 +124,5 @@ ConfusionMatrixDisplay.from_predictions(y_test, y_pred, cmap='Blues')
 plt.xlabel('Predicted level')
 plt.ylabel('True level')
 plt.savefig('Classification/confusion_matrix.png')
+
 
