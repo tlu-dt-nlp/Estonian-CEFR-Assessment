@@ -164,7 +164,7 @@ for directory in directories:
 				var['S_abstr'] = None
 
 			#proportion of words not among the 1,000-5,000 most frequent words in Estonian
-			freq_data = lf.request_abstr_freq(text)
+			freq_data = lf.request_abstr_freq(clean_text)
 			rare_boundaries = [5000, 4000, 3000, 2000, 1000]
 			freq_boundaries = [220, 301, 447, 747, 1651]
 			for i in range(len(rare_boundaries)):
