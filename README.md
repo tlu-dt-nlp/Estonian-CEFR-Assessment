@@ -64,6 +64,4 @@ The best-performing model parameters have been implemented in the [Writing Evalu
 
 ## Citing
 
-Allkivi, K. (2025). Combining corpus analysis and machine learning to predict the CEFR level of Estonian learner texts. *Book of Abstracts: The Pattern Beneath. Learner Corpus Research Graduate Conference, 22-24 October 2025, TU Chemnitz* (pp. 19). [Abstract](https://drive.google.com/file/d/1JIoPVnQ7JjWz_dSl9nmKLYFygoFsv7cl/view) [Presentation](https://www.researchgate.net/publication/396895485_Combining_corpus_analysis_and_machine_learning_to_predict_the_CEFR_level_of_Estonian_learner_texts) (Awarded with recognition for best paper)
-
-Article to be published shortly.
+Allkivi, K. (2026). Towards interpretable models for language proficiency assessment: Predicting the CEFR level of Estonian learner texts. *Journal of Responsible Technology*, *25*. [https://doi.org/10.1016/j.jrt.2026.100162](https://doi.org/10.1016/j.jrt.2026.100162)
